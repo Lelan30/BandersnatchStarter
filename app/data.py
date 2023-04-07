@@ -48,7 +48,6 @@ class Database:
     def html_table(self) -> str:
         '''returns an HTML table representation
         of the DataFrame, or None if the collection is empty'''
-
         return self.dataframe().to_html()
 
 
