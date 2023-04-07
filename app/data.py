@@ -40,9 +40,6 @@ class Database:
         # create dataframe
         data_frame = DataFrame(cur)
 
-        if self.count() <= 0:
-            return 'There are no documents in Database'
-
         # drop _id col
         data_frame = data_frame.drop('_id', axis=1)
         print(f'DataFrame with {self.count()} documents has been created!')
@@ -51,8 +48,7 @@ class Database:
     def html_table(self) -> str:
         '''returns an HTML table representation
         of the DataFrame, or None if the collection is empty'''
-        if self.count() <= 0:
-            return 'No documents in database'
+
         return self.dataframe().to_html()
 
 
