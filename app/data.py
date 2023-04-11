@@ -15,44 +15,31 @@ class Database:
     database = MongoClient(getenv('DB_URL'), tlsCAFile=where())['Database']
 
     def __init__(self, collection: str):
-        '''creates collection in database'''
+        """creates collection in database"""
         self.collection = self.database[collection]
 
     def seed(self, amount: int) -> str:
         """inserts the specified number of documents into the collection"""
-        docs = [Monster().to_dict() for _ in range(0, amount)]
-        self.collection.insert_many(docs)
-        print('Documents have been added to Database')
+        self.collection.insert_many(Monster().to_dict() for _ in range(amount))
 
     def reset(self) -> str:
         """deletes all documents from the collection"""
         self.collection.delete_many({})
-        print('Database has been reset!')
 
     def count(self) -> int:
         """returns the number of documents in the collection"""
-        total_docs = self.collection.count_documents({})
-        print(total_docs)
+        return self.collection.count_documents({})
 
     def dataframe(self) -> DataFrame:
         """returns a DataFrame containing all documents in the collection"""
-        # create cursor to execute query
-        cur = self.collection.find({})
-        # create dataframe
-        data_frame = DataFrame(cur)
-
-        # drop _id col
-        data_frame = data_frame.drop('_id', axis=1)
-        print(data_frame)
+        return DataFrame(self.collection.find({}, {"_id": False}))
 
     def html_table(self) -> str:
         """returns an HTML table representation
         of the DataFrame, or None if the collection is empty"""
-        print(DataFrame(self.dataframe()).to_html())
+        return self.dataframe().to_html() if self.count() else None
 
 
 if __name__ == '__main__':
     # creating collection
     db = Database('Bandersnatch')
-    db.html_table()
-
