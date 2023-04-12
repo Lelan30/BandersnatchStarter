@@ -1,7 +1,8 @@
 from altair import Chart, Tooltip
+from pandas import DataFrame
 
 
-def chart(df, x, y, target) -> Chart:
+def chart(df: DataFrame, x: str, y: str, target: str) -> Chart:
     graph = Chart(
         df,
         title=f"{y} by {x} for {target}",
