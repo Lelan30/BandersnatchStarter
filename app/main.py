@@ -10,7 +10,7 @@ from app.data import Database
 from app.graph import chart
 from app.machine import Machine
 
-SPRINT = 1
+SPRINT = 2
 APP = Flask(__name__)
 
 
@@ -58,7 +58,7 @@ def view():
         y_axis=y_axis,
         target=target,
         count=db.count(),
-        graph=graph,
+        graph=graph
     )
 
 
