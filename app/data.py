@@ -12,7 +12,7 @@ class Database:
     documents or reset database as well as creating a dataframe"""
     # connect to database
     load_dotenv()
-    database = MongoClient(getenv('DB_URL'), tlsCAFile=where())['Database']
+    database = MongoClient(getenv("DB_URL"), tlsCAFile=where())["Database"]
 
     def __init__(self, collection: str):
         """creates collection in database"""
@@ -32,7 +32,7 @@ class Database:
 
     def dataframe(self) -> DataFrame:
         """returns a DataFrame containing all documents in the collection"""
-        return DataFrame(self.collection.find({}, {"_id": False}))
+        # return DataFrame(self.collection.find({}, {"_id": False}))
 
     def html_table(self) -> str:
         """returns an HTML table representation
@@ -43,3 +43,4 @@ class Database:
 if __name__ == '__main__':
     # creating collection
     db = Database('Bandersnatch')
+    db.dataframe()
