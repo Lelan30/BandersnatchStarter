@@ -1,3 +1,4 @@
+import os.path
 from os import getenv
 
 from certifi import where
@@ -13,6 +14,8 @@ class Database:
     # connect to database
     load_dotenv()
     database = MongoClient(getenv("DB_URL"), tlsCAFile=where())["Database"]
+
+    # directory = os.path.join("app", "csv")
 
     def __init__(self, collection: str):
         """creates collection in database"""
@@ -32,15 +35,18 @@ class Database:
 
     def dataframe(self) -> DataFrame:
         """returns a DataFrame containing all documents in the collection"""
-        # return DataFrame(self.collection.find({}, {"_id": False}))
+        return DataFrame(self.collection.find({}, {"_id": False}))
 
     def html_table(self) -> str:
         """returns an HTML table representation
         of the DataFrame, or None if the collection is empty"""
         return self.dataframe().to_html() if self.count() else None
 
+    def get_csv(self):
+        """creates a csv of the DataFrame"""
+        self.dataframe().to_csv("app/csv/data.csv", index=False)
+
 
 if __name__ == '__main__':
     # creating collection
     db = Database('Bandersnatch')
-    db.dataframe()

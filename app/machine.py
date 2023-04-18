@@ -1,5 +1,5 @@
 from pandas import DataFrame
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import BaggingClassifier, GradientBoostingClassifier
 import datetime
 import joblib
 
@@ -8,10 +8,10 @@ class Machine:
 
     def __init__(self, df):
         """Initializes model and stores attributes"""
-        self.name = "Random Forest Classifier"
+        self.name = "Gradient Classifier"
         target = df["Rarity"]
         features = df.drop(columns=["Rarity"])
-        self.model = RandomForestClassifier()
+        self.model = GradientBoostingClassifier()
         self.model.fit(features, target)
         self.timestamp = datetime.datetime.today().strftime("%Y-%m-%d %H:%M:%S %p")
 
