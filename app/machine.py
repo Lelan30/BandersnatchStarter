@@ -1,5 +1,5 @@
 from pandas import DataFrame
-from sklearn.ensemble import BaggingClassifier, GradientBoostingClassifier
+from sklearn.ensemble import GradientBoostingClassifier
 import datetime
 import joblib
 
