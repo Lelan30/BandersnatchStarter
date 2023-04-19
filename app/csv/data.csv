@@ -1,0 +1,1001 @@
+Name,Type,Level,Rarity,Damage,Health,Energy,Sanity,Timestamp
+Efreeti,Elemental,11,Rank 1,11d4+1,44.23,43.72,42.65,2023-04-10 17:00:34
+Emerald Faerie,Fey,11,Rank 0,11d2,22.31,22.73,21.63,2023-04-10 17:00:34
+Pit Fiend,Demonic,4,Rank 0,4d2+2,7.57,7.9,8.0,2023-04-10 17:00:34
+Kobold Guard,Devilkin,5,Rank 1,5d4+1,19.2,19.83,19.88,2023-04-10 17:00:34
+Diamond Faerie,Fey,1,Rank 0,1d2+2,2.25,1.9,2.64,2023-04-10 17:00:34
+Pseudodragon,Dragon,12,Rank 3,12d8+2,93.69,93.75,94.44,2023-04-10 17:00:34
+Djinni,Elemental,6,Rank 0,6d2,11.16,12.33,11.14,2023-04-10 17:00:34
+Quasit,Demonic,10,Rank 0,10d2+3,19.87,19.5,19.89,2023-04-10 17:00:34
+Goblin Mage,Devilkin,3,Rank 0,3d2+3,6.88,5.72,5.9,2023-04-10 17:00:34
+Efreeti,Elemental,5,Rank 1,5d4+1,19.38,19.91,19.09,2023-04-10 17:00:34
+Hook Horror,Demonic,14,Rank 0,14d2+2,28.51,27.36,28.12,2023-04-10 17:00:34
+Pit Lord,Devilkin,9,Rank 2,9d6+1,52.7,54.56,53.98,2023-04-10 17:00:34
+Ghast,Undead,13,Rank 4,13d10+2,126.03,134.07,132.01,2023-04-10 17:00:34
+Kobold Knight,Devilkin,2,Rank 3,2d8+2,15.94,12.82,18.34,2023-04-10 17:00:34
+Djinni,Elemental,2,Rank 3,2d8,13.09,19.62,17.83,2023-04-10 17:00:34
+Lightning Spirit,Fey,12,Rank 2,12d6+2,72.83,72.92,72.23,2023-04-10 17:00:34
+Nightmare,Demonic,4,Rank 3,4d8+1,29.2,34.79,32.82,2023-04-10 17:00:34
+Ice Elemental,Elemental,10,Rank 0,10d2+3,19.56,19.24,19.43,2023-04-10 17:00:34
+Black Archfey,Fey,3,Rank 2,3d6+1,18.62,19.23,18.94,2023-04-10 17:00:34
+White Demon,Demonic,4,Rank 2,4d6+4,22.01,23.6,26.82,2023-04-10 17:00:34
+Pit Lord,Devilkin,5,Rank 0,5d2+3,10.06,10.68,9.94,2023-04-10 17:00:34
+Emerald Faerie,Fey,7,Rank 1,7d4,27.04,28.32,28.58,2023-04-10 17:00:34
+Imp,Demonic,1,Rank 0,1d2,1.6,2.67,2.37,2023-04-10 17:00:34
+Pseudodragon,Dragon,5,Rank 0,5d2,9.69,10.53,10.23,2023-04-10 17:00:34
+Prince of Fear,Devilkin,2,Rank 3,2d8,17.61,19.24,14.43,2023-04-10 17:00:34
+Shadow Archfey,Fey,5,Rank 1,5d4+3,20.26,20.7,21.32,2023-04-10 17:00:34
+Quasit,Demonic,13,Rank 0,13d2+2,25.35,25.74,26.23,2023-04-10 17:00:34
+Diamond Drake,Dragon,5,Rank 2,5d6,29.2,28.4,30.0,2023-04-10 17:00:34
+Pit Lord,Devilkin,2,Rank 1,2d4,7.55,7.72,7.24,2023-04-10 17:00:34
+Mud Mephit,Elemental,3,Rank 2,3d6+4,17.21,16.76,19.85,2023-04-10 17:00:34
+Revenant,Undead,5,Rank 0,5d2+1,9.41,9.89,9.58,2023-04-10 17:00:34
+Wyvern,Dragon,5,Rank 3,5d8+1,40.14,38.5,39.16,2023-04-10 17:00:34
+Red Faerie,Fey,10,Rank 2,10d6+2,62.98,61.59,60.54,2023-04-10 17:00:34
+Imp,Demonic,10,Rank 1,10d4+2,40.82,40.31,40.44,2023-04-10 17:00:34
+Prince of Fear,Devilkin,5,Rank 2,5d6+1,28.0,29.55,28.91,2023-04-10 17:00:34
+Ghoul,Undead,2,Rank 0,2d2+1,4.96,4.79,4.24,2023-04-10 17:00:34
+Kobold Archer,Devilkin,10,Rank 0,10d2+1,19.48,19.83,20.61,2023-04-10 17:00:34
+Emerald Faerie,Fey,14,Rank 0,14d2,27.01,28.47,27.4,2023-04-10 17:00:34
+Wight,Undead,14,Rank 4,14d10+3,140.74,144.03,144.37,2023-04-10 17:00:34
+Blue Dragon,Dragon,7,Rank 2,7d6+3,41.64,42.08,42.02,2023-04-10 17:00:34
+Spore Devil,Devilkin,4,Rank 1,4d4+1,16.02,15.74,17.93,2023-04-10 17:00:34
+Prismatic Faerie,Fey,8,Rank 3,8d8+2,66.59,66.89,62.04,2023-04-10 17:00:34
+Imp,Demonic,5,Rank 4,5d10+1,48.33,50.25,49.5,2023-04-10 17:00:34
+Kobold Villager,Devilkin,6,Rank 1,6d4,23.96,22.41,24.8,2023-04-10 17:00:34
+Steam Spirit,Fey,4,Rank 1,4d4,17.46,15.0,16.71,2023-04-10 17:00:34
+Nightmare,Demonic,18,Rank 3,18d8+1,146.25,145.01,145.97,2023-04-10 17:00:34
+Prince of Fear,Devilkin,2,Rank 4,2d10,22.59,24.16,23.9,2023-04-10 17:00:34
+Copper Faerie,Fey,9,Rank 0,9d2,17.08,17.98,18.67,2023-04-10 17:00:34
+Hell Hound,Demonic,3,Rank 1,3d4+1,11.79,11.59,12.06,2023-04-10 17:00:34
+Djinni,Elemental,7,Rank 5,7d12+2,80.23,86.82,87.72,2023-04-10 17:00:34
+Quasit,Demonic,9,Rank 0,9d2,17.96,18.37,17.04,2023-04-10 17:00:34
+Pit Lord,Devilkin,5,Rank 1,5d4+1,21.96,19.18,21.97,2023-04-10 17:00:34
+Poltergeist,Undead,5,Rank 1,5d4,20.82,20.89,19.91,2023-04-10 17:00:34
+Pseudodragon,Dragon,7,Rank 3,7d8+2,52.05,56.93,52.02,2023-04-10 17:00:34
+Efreeti,Elemental,8,Rank 3,8d8,64.72,60.64,65.56,2023-04-10 17:00:34
+Dracolich,Undead,7,Rank 4,7d10+2,71.55,74.29,67.76,2023-04-10 17:00:34
+Faerie Dragon,Dragon,11,Rank 2,11d6,65.27,66.49,66.31,2023-04-10 17:00:34
+Djinni,Elemental,8,Rank 3,8d8+4,62.58,65.19,63.99,2023-04-10 17:00:34
+Imp,Demonic,5,Rank 1,5d4+4,20.79,19.74,18.7,2023-04-10 17:00:34
+Lightning Devil,Devilkin,8,Rank 0,8d2+4,15.86,16.32,16.23,2023-04-10 17:00:34
+Shadow Spirit,Fey,2,Rank 0,2d2+1,3.48,4.58,3.69,2023-04-10 17:00:34
+Nightmare,Demonic,10,Rank 3,10d8,82.51,80.73,81.03,2023-04-10 17:00:34
+Efreeti,Elemental,7,Rank 0,7d2+5,13.61,14.33,14.25,2023-04-10 17:00:34
+Lich King,Undead,14,Rank 3,14d8,113.04,110.06,109.73,2023-04-10 17:00:34
+Pit Lord,Devilkin,2,Rank 5,2d12+1,21.1,28.51,28.89,2023-04-10 17:00:34
+Wraith,Undead,12,Rank 1,12d4+1,48.64,49.86,49.58,2023-04-10 17:00:34
+Goblin Guard,Devilkin,2,Rank 2,2d6,12.98,12.87,10.38,2023-04-10 17:00:34
+Bronze Archfey,Fey,4,Rank 0,4d2+2,7.81,7.16,7.37,2023-04-10 17:00:34
+Hell Hound,Demonic,6,Rank 1,6d4+1,24.54,23.7,22.28,2023-04-10 17:00:34
+Goblin Mage,Devilkin,3,Rank 1,3d4+4,11.09,12.04,12.16,2023-04-10 17:00:34
+Lightning Spirit,Fey,6,Rank 0,6d2+3,11.27,11.67,12.61,2023-04-10 17:00:34
+Hell Hound,Demonic,13,Rank 0,13d2+1,26.2,25.36,26.37,2023-04-10 17:00:34
+Smoke Mephit,Elemental,1,Rank 0,1d2,2.42,2.88,2.0,2023-04-10 17:00:34
+Hook Horror,Demonic,4,Rank 2,4d6+1,23.18,23.8,25.99,2023-04-10 17:00:34
+Kobold Knight,Devilkin,10,Rank 0,10d2+4,19.09,20.51,20.71,2023-04-10 17:00:34
+Spore Spirit,Fey,5,Rank 3,5d8+1,43.77,37.08,37.19,2023-04-10 17:00:34
+Pit Fiend,Demonic,6,Rank 0,6d2+1,11.07,11.1,11.68,2023-04-10 17:00:34
+Dust Elemental,Elemental,7,Rank 1,7d4+3,29.08,27.3,28.33,2023-04-10 17:00:34
+Revenant,Undead,6,Rank 1,6d4+3,25.71,23.24,23.0,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 3,3d8+2,20.93,24.67,26.46,2023-04-10 17:00:34
+Smoke Mephit,Elemental,4,Rank 3,4d8+5,31.77,30.7,31.19,2023-04-10 17:00:34
+Magma Spirit,Fey,10,Rank 2,10d6+1,57.2,59.12,62.23,2023-04-10 17:00:34
+Diamond Drake,Dragon,4,Rank 0,4d2+4,7.1,7.12,7.86,2023-04-10 17:00:34
+Ice Archfey,Fey,11,Rank 1,11d4+2,42.53,42.08,45.1,2023-04-10 17:00:34
+Blue Dragon,Dragon,3,Rank 1,3d4+1,10.87,10.83,10.96,2023-04-10 17:00:34
+Djinni,Elemental,5,Rank 2,5d6+2,30.27,29.59,32.92,2023-04-10 17:00:34
+Mummy,Undead,9,Rank 1,9d4+3,37.1,36.83,34.41,2023-04-10 17:00:34
+Wyvern,Dragon,2,Rank 0,2d2+4,4.28,4.82,3.24,2023-04-10 17:00:34
+Efreeti,Elemental,4,Rank 1,4d4,17.9,15.88,16.93,2023-04-10 17:00:34
+Nightmare,Demonic,11,Rank 0,11d2,21.62,21.11,22.61,2023-04-10 17:00:34
+Shadow Elemental,Elemental,3,Rank 0,3d2+1,5.3,5.44,6.97,2023-04-10 17:00:34
+Banshee,Undead,6,Rank 1,6d4+1,23.7,24.05,22.22,2023-04-10 17:00:34
+Faerie Dragon,Dragon,2,Rank 1,2d4+1,8.49,8.37,9.34,2023-04-10 17:00:34
+Efreeti,Elemental,6,Rank 0,6d2+4,11.73,11.9,11.52,2023-04-10 17:00:34
+Poltergeist,Undead,20,Rank 0,20d2+1,40.83,39.11,39.54,2023-04-10 17:00:34
+Hell Hound,Demonic,15,Rank 1,15d4+2,59.23,58.75,59.04,2023-04-10 17:00:34
+Kobold Guard,Devilkin,6,Rank 3,6d8+1,50.37,47.54,46.69,2023-04-10 17:00:34
+Efreeti,Elemental,3,Rank 4,3d10+1,26.92,30.9,32.9,2023-04-10 17:00:34
+Dracolich,Undead,5,Rank 2,5d6+2,31.85,28.74,27.37,2023-04-10 17:00:34
+Faerie Dragon,Dragon,11,Rank 4,11d10+1,106.48,110.31,114.95,2023-04-10 17:00:34
+Steam Spirit,Fey,3,Rank 1,3d4,11.79,12.49,10.38,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 3,3d8+1,23.14,23.47,25.79,2023-04-10 17:00:34
+White Wyrmling,Dragon,12,Rank 4,12d10+2,119.17,121.56,118.57,2023-04-10 17:00:34
+Lightning Elemental,Elemental,8,Rank 3,8d8+2,66.79,66.87,63.37,2023-04-10 17:00:34
+Spore Spirit,Fey,6,Rank 4,6d10+1,57.73,55.43,57.34,2023-04-10 17:00:34
+Imp,Demonic,2,Rank 0,2d2+1,3.98,4.1,3.59,2023-04-10 17:00:34
+Platinum Dragon,Dragon,4,Rank 0,4d2,7.71,8.06,7.18,2023-04-10 17:00:34
+Blue Faerie,Fey,10,Rank 0,10d2,19.25,19.13,19.72,2023-04-10 17:00:34
+Ghoul,Undead,6,Rank 0,6d2,11.02,11.57,12.55,2023-04-10 17:00:34
+Black Drake,Dragon,12,Rank 2,12d6+3,72.52,73.44,73.08,2023-04-10 17:00:34
+Bronze Archfey,Fey,13,Rank 2,13d6+4,76.73,76.14,75.76,2023-04-10 17:00:34
+Poltergeist,Undead,8,Rank 3,8d8,67.33,60.61,61.84,2023-04-10 17:00:34
+Nightmare,Demonic,2,Rank 0,2d2,3.36,3.68,4.85,2023-04-10 17:00:34
+Kobold Mage,Devilkin,8,Rank 1,8d4+2,31.68,32.22,33.45,2023-04-10 17:00:34
+Steam Spirit,Fey,7,Rank 1,7d4+4,26.77,27.05,29.15,2023-04-10 17:00:34
+Balor,Demonic,7,Rank 3,7d8,59.81,57.58,53.47,2023-04-10 17:00:34
+Smoke Devil,Devilkin,3,Rank 0,3d2+1,6.48,5.99,6.39,2023-04-10 17:00:34
+Spore Spirit,Fey,4,Rank 0,4d2,8.95,8.34,7.26,2023-04-10 17:00:34
+Faerie Dragon,Dragon,6,Rank 2,6d6,37.54,35.87,34.92,2023-04-10 17:00:34
+Magma Devil,Devilkin,6,Rank 0,6d2+3,12.58,11.86,11.48,2023-04-10 17:00:34
+Blue Faerie,Fey,11,Rank 2,11d6+3,66.52,66.72,63.14,2023-04-10 17:00:34
+Hook Horror,Demonic,8,Rank 3,8d8,61.8,65.55,60.07,2023-04-10 17:00:34
+Lightning Mephit,Elemental,2,Rank 3,2d8+1,16.86,13.58,16.57,2023-04-10 17:00:34
+Spore Archfey,Fey,8,Rank 0,8d2,16.16,15.51,16.73,2023-04-10 17:00:34
+Imp,Demonic,2,Rank 0,2d2,4.0,3.32,3.36,2023-04-10 17:00:34
+Dust Devil,Devilkin,6,Rank 1,6d4+1,24.53,23.98,22.06,2023-04-10 17:00:34
+White Archfey,Fey,15,Rank 3,15d8+2,120.41,120.63,116.1,2023-04-10 17:00:34
+Poltergeist,Undead,15,Rank 1,15d4,59.7,60.97,61.27,2023-04-10 17:00:34
+Pseudodragon,Dragon,1,Rank 5,1d12+1,16.45,8.38,13.91,2023-04-10 17:00:34
+Efreeti,Elemental,7,Rank 0,7d2+1,14.36,13.84,13.75,2023-04-10 17:00:34
+Wight,Undead,2,Rank 0,2d2,3.12,4.61,4.32,2023-04-10 17:00:34
+Kobold Villager,Devilkin,6,Rank 4,6d10+3,63.25,61.45,60.67,2023-04-10 17:00:34
+Wight,Undead,10,Rank 0,10d2,20.27,19.41,19.2,2023-04-10 17:00:34
+Night Hag,Demonic,9,Rank 1,9d4+4,34.43,35.1,36.29,2023-04-10 17:00:34
+Succubus,Devilkin,9,Rank 2,9d6+4,52.44,53.39,56.01,2023-04-10 17:00:34
+Bronze Faerie,Fey,12,Rank 0,12d2+5,23.95,23.57,24.67,2023-04-10 17:00:34
+Wight,Undead,19,Rank 1,19d4+4,77.31,76.36,77.64,2023-04-10 17:00:34
+Wyvern,Dragon,12,Rank 1,12d4,48.41,47.69,49.51,2023-04-10 17:00:34
+Smoke Mephit,Elemental,13,Rank 1,13d4+1,52.64,53.52,53.78,2023-04-10 17:00:34
+Hook Horror,Demonic,4,Rank 2,4d6+2,22.2,25.37,24.61,2023-04-10 17:00:34
+Pit Lord,Devilkin,7,Rank 0,7d2,13.43,13.99,13.24,2023-04-10 17:00:34
+Efreeti,Elemental,15,Rank 3,15d8+2,116.88,119.71,122.81,2023-04-10 17:00:34
+Spore Spirit,Fey,10,Rank 2,10d6,61.39,61.48,57.22,2023-04-10 17:00:34
+Hook Horror,Demonic,8,Rank 1,8d4,32.19,31.76,30.57,2023-04-10 17:00:34
+Dust Mephit,Elemental,15,Rank 2,15d6+4,88.05,88.46,90.48,2023-04-10 17:00:34
+Silver Demon,Demonic,2,Rank 2,2d6+1,9.34,10.28,13.56,2023-04-10 17:00:34
+Incubus,Devilkin,14,Rank 1,14d4+2,55.14,55.51,57.43,2023-04-10 17:00:34
+Lightning Archfey,Fey,8,Rank 1,8d4+4,31.83,30.44,33.63,2023-04-10 17:00:34
+Imp,Demonic,3,Rank 1,3d4+2,10.89,11.17,11.93,2023-04-10 17:00:34
+Gold Drake,Dragon,4,Rank 1,4d4,15.79,16.94,16.31,2023-04-10 17:00:34
+Pit Lord,Devilkin,7,Rank 0,7d2+2,14.61,13.75,14.9,2023-04-10 17:00:34
+Death Knight,Undead,17,Rank 0,17d2,34.02,34.89,34.83,2023-04-10 17:00:34
+Kobold Knight,Devilkin,12,Rank 1,12d4+5,46.76,47.42,48.91,2023-04-10 17:00:34
+Mummy Lord,Undead,13,Rank 3,13d8,101.75,102.6,106.38,2023-04-10 17:00:34
+Incubus,Devilkin,5,Rank 1,5d4+1,19.06,19.69,20.18,2023-04-10 17:00:34
+Spore Mephit,Elemental,5,Rank 2,5d6,31.1,28.36,31.45,2023-04-10 17:00:34
+Ghoul,Undead,5,Rank 2,5d6,28.22,31.65,31.66,2023-04-10 17:00:34
+Pit Lord,Devilkin,6,Rank 1,6d4+3,23.11,23.35,24.8,2023-04-10 17:00:34
+Zombie Archer,Undead,12,Rank 0,12d2+1,23.78,23.02,24.09,2023-04-10 17:00:34
+Goblin Mage,Devilkin,12,Rank 2,12d6,69.82,71.2,70.69,2023-04-10 17:00:34
+Demilich,Undead,12,Rank 3,12d8+4,96.18,92.24,95.82,2023-04-10 17:00:34
+Black Dragon,Dragon,4,Rank 5,4d12+2,45.31,51.33,47.2,2023-04-10 17:00:34
+Dust Mephit,Elemental,11,Rank 1,11d4+4,44.02,43.36,43.89,2023-04-10 17:00:34
+Death Knight,Undead,10,Rank 1,10d4+4,39.15,41.74,39.7,2023-04-10 17:00:34
+Onyx Wyrmling,Dragon,13,Rank 4,13d10+2,133.98,129.47,133.68,2023-04-10 17:00:34
+Goblin Knight,Devilkin,10,Rank 1,10d4+4,39.62,40.59,39.8,2023-04-10 17:00:34
+Ice Spirit,Fey,12,Rank 5,12d12+4,139.2,141.13,145.77,2023-04-10 17:00:34
+Silver Wyrmling,Dragon,1,Rank 0,1d2+3,1.31,2.6,1.97,2023-04-10 17:00:34
+Prince of Fear,Devilkin,6,Rank 0,6d2,11.8,12.64,11.79,2023-04-10 17:00:34
+Spore Elemental,Elemental,15,Rank 3,15d8,121.79,120.59,122.92,2023-04-10 17:00:34
+Night Hag,Demonic,4,Rank 1,4d4+1,15.48,15.17,14.31,2023-04-10 17:00:34
+Prince of Fear,Devilkin,12,Rank 3,12d8+4,93.02,97.18,92.14,2023-04-10 17:00:34
+Prismatic Archfey,Fey,15,Rank 1,15d4,60.56,60.67,59.3,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 0,3d2,6.04,5.7,5.17,2023-04-10 17:00:34
+Efreeti,Elemental,7,Rank 0,7d2,13.28,14.75,14.95,2023-04-10 17:00:34
+Demilich,Undead,13,Rank 3,13d8+1,104.84,100.31,107.92,2023-04-10 17:00:34
+Onyx Wyrmling,Dragon,4,Rank 1,4d4+2,14.16,15.96,14.78,2023-04-10 17:00:34
+Steam Spirit,Fey,7,Rank 2,7d6+2,44.15,40.71,39.35,2023-04-10 17:00:34
+Pit Fiend,Demonic,6,Rank 0,6d2+4,11.46,11.52,12.01,2023-04-10 17:00:34
+Kobold Archer,Devilkin,4,Rank 0,4d2,8.21,8.14,8.13,2023-04-10 17:00:34
+Ice Archfey,Fey,7,Rank 0,7d2+1,14.27,14.4,13.21,2023-04-10 17:00:34
+Hell Hound,Demonic,6,Rank 2,6d6+2,35.45,35.64,35.39,2023-04-10 17:00:34
+Incubus,Devilkin,2,Rank 2,2d6+3,10.44,10.73,11.4,2023-04-10 17:00:34
+Magma Elemental,Elemental,6,Rank 1,6d4+4,23.86,24.6,25.46,2023-04-10 17:00:34
+Brass Faerie,Fey,14,Rank 1,14d4,57.94,57.55,56.68,2023-04-10 17:00:34
+Hook Horror,Demonic,6,Rank 2,6d6+1,35.92,35.73,34.16,2023-04-10 17:00:34
+Black Wyrmling,Dragon,12,Rank 3,12d8+1,92.57,99.83,93.48,2023-04-10 17:00:34
+Ice Elemental,Elemental,2,Rank 0,2d2+3,3.98,4.37,4.33,2023-04-10 17:00:34
+Dracolich,Undead,5,Rank 0,5d2+1,10.82,10.46,9.06,2023-04-10 17:00:34
+Faerie Dragon,Dragon,5,Rank 2,5d6+2,30.85,30.9,30.52,2023-04-10 17:00:34
+Djinni,Elemental,3,Rank 0,3d2,6.33,5.68,6.78,2023-04-10 17:00:34
+Onyx Faerie,Fey,13,Rank 0,13d2+1,25.38,26.96,25.74,2023-04-10 17:00:34
+Skeletal Mage,Undead,10,Rank 1,10d4+2,41.28,40.22,39.84,2023-04-10 17:00:34
+Pseudodragon,Dragon,7,Rank 4,7d10+1,71.16,73.12,68.11,2023-04-10 17:00:34
+Shadow Mephit,Elemental,11,Rank 0,11d2,21.42,21.27,22.88,2023-04-10 17:00:34
+Lich King,Undead,9,Rank 4,9d10,89.21,89.5,92.51,2023-04-10 17:00:34
+Hell Hound,Demonic,11,Rank 1,11d4+1,42.22,44.08,45.57,2023-04-10 17:00:34
+Prince of Fear,Devilkin,8,Rank 3,8d8,66.03,64.63,65.84,2023-04-10 17:00:34
+Brass Faerie,Fey,2,Rank 2,2d6+4,9.46,12.05,13.6,2023-04-10 17:00:34
+Ghast,Undead,2,Rank 3,2d8+1,18.24,17.37,18.21,2023-04-10 17:00:34
+Pseudodragon,Dragon,7,Rank 1,7d4+1,27.15,27.71,27.79,2023-04-10 17:00:34
+Red Faerie,Fey,9,Rank 1,9d4,35.75,37.12,36.01,2023-04-10 17:00:34
+Imp,Demonic,14,Rank 4,14d10+3,138.68,142.22,139.75,2023-04-10 17:00:34
+Copper Wyrmling,Dragon,1,Rank 3,1d8+2,5.28,8.38,6.93,2023-04-10 17:00:34
+Goblin Knight,Devilkin,4,Rank 2,4d6+2,23.61,24.56,26.29,2023-04-10 17:00:34
+Dust Mephit,Elemental,3,Rank 2,3d6,20.16,20.29,18.17,2023-04-10 17:00:34
+Hook Horror,Demonic,8,Rank 1,8d4,31.39,32.05,30.2,2023-04-10 17:00:34
+Pit Lord,Devilkin,14,Rank 4,14d10+2,137.99,136.5,136.46,2023-04-10 17:00:34
+Platinum Faerie,Fey,12,Rank 0,12d2+5,23.57,23.87,24.37,2023-04-10 17:00:34
+Imp,Demonic,4,Rank 3,4d8+1,31.14,31.88,33.91,2023-04-10 17:00:34
+Goblin Archer,Devilkin,3,Rank 3,3d8+1,25.18,25.6,25.5,2023-04-10 17:00:34
+Sapphire Faerie,Fey,15,Rank 2,15d6+3,89.23,91.08,90.34,2023-04-10 17:00:34
+Hell Hound,Demonic,6,Rank 2,6d6,34.42,36.46,35.52,2023-04-10 17:00:34
+Copper Dragon,Dragon,2,Rank 2,2d6+1,12.2,11.31,14.12,2023-04-10 17:00:34
+Lightning Mephit,Elemental,14,Rank 1,14d4+3,55.85,57.48,55.02,2023-04-10 17:00:34
+Hell Hound,Demonic,3,Rank 4,3d10+2,28.68,32.38,34.31,2023-04-10 17:00:34
+Green Drake,Dragon,8,Rank 1,8d4,33.56,30.86,31.82,2023-04-10 17:00:34
+Prince of Fear,Devilkin,5,Rank 1,5d4+3,20.29,18.15,18.16,2023-04-10 17:00:34
+Skeletal Villager,Undead,4,Rank 1,4d4,15.98,16.56,15.79,2023-04-10 17:00:34
+Wyvern,Dragon,10,Rank 0,10d2+2,20.85,20.59,20.14,2023-04-10 17:00:34
+Flame Mephit,Elemental,7,Rank 1,7d4+4,28.59,29.15,27.57,2023-04-10 17:00:34
+Dust Spirit,Fey,20,Rank 0,20d2,39.52,39.77,39.77,2023-04-10 17:00:34
+Nightmare,Demonic,4,Rank 0,4d2+2,7.9,8.5,8.89,2023-04-10 17:00:34
+Goblin Guard,Devilkin,13,Rank 1,13d4,52.83,52.7,50.27,2023-04-10 17:00:34
+Revenant,Undead,3,Rank 2,3d6,15.69,18.22,19.58,2023-04-10 17:00:34
+Faerie Dragon,Dragon,9,Rank 1,9d4+5,34.04,36.95,36.62,2023-04-10 17:00:34
+Ice Elemental,Elemental,2,Rank 2,2d6+1,12.17,12.43,13.87,2023-04-10 17:00:34
+Demilich,Undead,8,Rank 1,8d4+3,33.21,32.78,32.27,2023-04-10 17:00:34
+Pit Lord,Devilkin,9,Rank 4,9d10+4,89.87,91.61,88.23,2023-04-10 17:00:34
+Efreeti,Elemental,17,Rank 0,17d2+1,34.03,33.32,34.63,2023-04-10 17:00:34
+Lich,Undead,5,Rank 4,5d10+2,53.99,48.65,45.23,2023-04-10 17:00:34
+Shadow Devil,Devilkin,5,Rank 5,5d12+1,58.74,65.72,57.41,2023-04-10 17:00:34
+Bronze Archfey,Fey,9,Rank 4,9d10+1,86.58,92.34,94.61,2023-04-10 17:00:34
+Balor,Demonic,15,Rank 0,15d2+4,30.03,29.5,30.72,2023-04-10 17:00:34
+Mud Devil,Devilkin,3,Rank 3,3d8+2,26.37,26.19,25.66,2023-04-10 17:00:34
+Ice Elemental,Elemental,7,Rank 0,7d2+3,14.09,13.11,13.67,2023-04-10 17:00:34
+Lich King,Undead,10,Rank 4,10d10,100.65,100.46,96.18,2023-04-10 17:00:34
+Silver Dragon,Dragon,7,Rank 1,7d4,28.89,27.83,28.36,2023-04-10 17:00:34
+Spore Mephit,Elemental,11,Rank 1,11d4+2,44.01,43.02,44.19,2023-04-10 17:00:34
+Black Demon,Demonic,16,Rank 4,16d10,161.61,162.79,161.21,2023-04-10 17:00:34
+Incubus,Devilkin,3,Rank 2,3d6+2,18.66,17.36,20.85,2023-04-10 17:00:34
+Steam Spirit,Fey,5,Rank 2,5d6+2,31.42,28.49,31.42,2023-04-10 17:00:34
+Poltergeist,Undead,2,Rank 2,2d6+2,12.08,12.26,12.9,2023-04-10 17:00:34
+Wyvern,Dragon,1,Rank 2,1d6+2,6.98,5.1,5.36,2023-04-10 17:00:34
+Lightning Archfey,Fey,2,Rank 1,2d4,7.18,7.56,8.79,2023-04-10 17:00:34
+Quasit,Demonic,17,Rank 1,17d4,67.95,67.73,68.99,2023-04-10 17:00:34
+Faerie Dragon,Dragon,8,Rank 2,8d6,46.27,49.22,48.54,2023-04-10 17:00:34
+Green Archfey,Fey,4,Rank 0,4d2+1,8.71,8.58,8.83,2023-04-10 17:00:34
+Ghoul,Undead,4,Rank 3,4d8,33.81,31.83,30.31,2023-04-10 17:00:34
+Faerie Dragon,Dragon,2,Rank 1,2d4+4,8.77,9.45,8.64,2023-04-10 17:00:34
+Flame Elemental,Elemental,5,Rank 2,5d6,28.52,28.99,30.1,2023-04-10 17:00:34
+Lich,Undead,15,Rank 0,15d2+1,30.25,29.81,29.94,2023-04-10 17:00:34
+Wyvern,Dragon,11,Rank 0,11d2,21.47,22.43,22.59,2023-04-10 17:00:34
+Djinni,Elemental,8,Rank 2,8d6+1,50.78,45.87,48.32,2023-04-10 17:00:34
+Banshee,Undead,4,Rank 2,4d6+2,23.58,25.35,24.19,2023-04-10 17:00:34
+Hook Horror,Demonic,11,Rank 3,11d8+2,87.55,91.39,88.7,2023-04-10 17:00:34
+Prince of Fear,Devilkin,7,Rank 2,7d6+2,41.71,42.22,41.84,2023-04-10 17:00:34
+Dust Archfey,Fey,6,Rank 0,6d2+4,11.69,11.13,12.22,2023-04-10 17:00:34
+Balor,Demonic,10,Rank 0,10d2,19.01,20.07,20.98,2023-04-10 17:00:34
+Pit Lord,Devilkin,16,Rank 2,16d6+3,97.42,97.4,95.34,2023-04-10 17:00:34
+Silver Faerie,Fey,3,Rank 1,3d4+1,11.44,12.36,11.81,2023-04-10 17:00:34
+Gold Demon,Demonic,9,Rank 2,9d6,52.01,55.62,54.7,2023-04-10 17:00:34
+Prince of Fear,Devilkin,8,Rank 2,8d6+1,49.73,46.32,49.98,2023-04-10 17:00:34
+White Archfey,Fey,3,Rank 2,3d6+4,19.24,18.13,18.97,2023-04-10 17:00:34
+Quasit,Demonic,4,Rank 0,4d2+4,7.9,8.62,7.09,2023-04-10 17:00:34
+Goblin Mage,Devilkin,7,Rank 1,7d4+4,27.61,29.41,28.42,2023-04-10 17:00:34
+Death Knight,Undead,3,Rank 0,3d2+1,5.62,5.75,5.93,2023-04-10 17:00:34
+Emerald Demon,Demonic,3,Rank 3,3d8+1,26.3,22.12,21.4,2023-04-10 17:00:34
+Efreeti,Elemental,6,Rank 0,6d2,12.12,12.02,11.45,2023-04-10 17:00:34
+Hook Horror,Demonic,6,Rank 1,6d4,23.08,22.88,22.95,2023-04-10 17:00:34
+Prince of Fear,Devilkin,8,Rank 0,8d2+1,16.18,16.41,16.39,2023-04-10 17:00:34
+Ice Archfey,Fey,11,Rank 1,11d4,43.05,43.44,44.34,2023-04-10 17:00:34
+Diamond Dragon,Dragon,9,Rank 3,9d8+1,73.18,69.28,69.84,2023-04-10 17:00:34
+Djinni,Elemental,11,Rank 2,11d6,65.15,68.26,66.26,2023-04-10 17:00:34
+Night Hag,Demonic,4,Rank 2,4d6+4,25.62,26.6,23.25,2023-04-10 17:00:34
+Pit Lord,Devilkin,9,Rank 3,9d8+2,71.04,69.16,71.23,2023-04-10 17:00:34
+Mummy,Undead,3,Rank 0,3d2,5.97,5.11,5.34,2023-04-10 17:00:34
+Quasit,Demonic,7,Rank 2,7d6+3,43.55,43.85,40.3,2023-04-10 17:00:34
+Djinni,Elemental,12,Rank 2,12d6,73.1,69.55,70.21,2023-04-10 17:00:34
+Shadow Spirit,Fey,12,Rank 2,12d6,74.11,69.95,70.73,2023-04-10 17:00:34
+Pseudodragon,Dragon,14,Rank 1,14d4+1,54.12,56.1,56.5,2023-04-10 17:00:34
+White Faerie,Fey,11,Rank 3,11d8+1,84.29,84.66,90.24,2023-04-10 17:00:34
+Emerald Drake,Dragon,13,Rank 4,13d10,132.52,132.56,131.2,2023-04-10 17:00:34
+Djinni,Elemental,10,Rank 1,10d4+4,40.54,41.02,39.6,2023-04-10 17:00:34
+Pit Fiend,Demonic,4,Rank 1,4d4+1,17.18,15.75,17.04,2023-04-10 17:00:34
+Efreeti,Elemental,6,Rank 1,6d4,24.69,24.25,23.62,2023-04-10 17:00:34
+Ghast,Undead,11,Rank 1,11d4+4,45.64,43.35,44.31,2023-04-10 17:00:34
+Blue Dragon,Dragon,2,Rank 0,2d2+3,3.03,3.3,4.79,2023-04-10 17:00:34
+Mud Elemental,Elemental,17,Rank 3,17d8,134.81,138.14,134.82,2023-04-10 17:00:34
+Wight,Undead,3,Rank 1,3d4,11.29,11.87,10.02,2023-04-10 17:00:34
+Pseudodragon,Dragon,6,Rank 1,6d4+2,24.44,23.12,24.53,2023-04-10 17:00:34
+Succubus,Devilkin,18,Rank 3,18d8+3,143.09,147.87,143.34,2023-04-10 17:00:34
+Lightning Spirit,Fey,3,Rank 2,3d6+1,15.47,17.05,18.49,2023-04-10 17:00:34
+Green Demon,Demonic,2,Rank 3,2d8+3,15.41,16.85,14.13,2023-04-10 17:00:34
+Faerie Dragon,Dragon,14,Rank 1,14d4,56.8,54.85,54.33,2023-04-10 17:00:34
+Spore Elemental,Elemental,10,Rank 0,10d2+1,20.39,19.09,19.94,2023-04-10 17:00:34
+Lich King,Undead,2,Rank 1,2d4,7.84,6.63,7.12,2023-04-10 17:00:34
+Pseudodragon,Dragon,6,Rank 4,6d10+1,61.67,63.52,59.29,2023-04-10 17:00:34
+Efreeti,Elemental,16,Rank 1,16d4+2,64.33,64.54,64.98,2023-04-10 17:00:34
+Wraith,Undead,7,Rank 0,7d2+1,13.71,13.46,14.46,2023-04-10 17:00:34
+Hell Hound,Demonic,7,Rank 0,7d2+4,13.6,13.76,14.34,2023-04-10 17:00:34
+Goblin Knight,Devilkin,6,Rank 0,6d2+1,12.71,12.83,12.93,2023-04-10 17:00:34
+Djinni,Elemental,7,Rank 2,7d6+5,39.61,41.91,43.23,2023-04-10 17:00:34
+Lich King,Undead,9,Rank 2,9d6+3,53.6,56.85,54.36,2023-04-10 17:00:34
+Balor,Demonic,9,Rank 1,9d4+4,35.35,37.49,36.16,2023-04-10 17:00:34
+Platinum Dragon,Dragon,9,Rank 4,9d10,92.02,90.31,88.97,2023-04-10 17:00:34
+Pit Lord,Devilkin,8,Rank 1,8d4,31.49,30.4,31.74,2023-04-10 17:00:34
+Blue Faerie,Fey,3,Rank 3,3d8+2,25.52,27.04,27.09,2023-04-10 17:00:34
+Red Demon,Demonic,4,Rank 1,4d4+2,14.45,16.76,16.19,2023-04-10 17:00:34
+Djinni,Elemental,4,Rank 2,4d6,21.25,24.24,22.86,2023-04-10 17:00:34
+Emerald Archfey,Fey,3,Rank 3,3d8+2,25.32,22.89,22.04,2023-04-10 17:00:34
+Balor,Demonic,2,Rank 2,2d6+2,14.5,11.88,9.85,2023-04-10 17:00:34
+Gold Dragon,Dragon,2,Rank 1,2d4,8.49,8.27,7.7,2023-04-10 17:00:34
+Kobold Archer,Devilkin,14,Rank 0,14d2+3,28.25,27.49,27.77,2023-04-10 17:00:34
+Revenant,Undead,8,Rank 0,8d2+1,15.39,16.02,16.81,2023-04-10 17:00:34
+Green Drake,Dragon,3,Rank 0,3d2+3,6.75,6.52,6.42,2023-04-10 17:00:34
+Magma Elemental,Elemental,18,Rank 1,18d4+1,72.39,73.2,71.03,2023-04-10 17:00:34
+Dust Spirit,Fey,5,Rank 2,5d6,29.37,30.88,27.3,2023-04-10 17:00:34
+Nightmare,Demonic,20,Rank 0,20d2+2,40.07,39.62,40.92,2023-04-10 17:00:34
+Efreeti,Elemental,11,Rank 1,11d4,43.9,42.37,45.87,2023-04-10 17:00:34
+Demilich,Undead,5,Rank 3,5d8,40.73,41.43,37.41,2023-04-10 17:00:34
+Succubus,Devilkin,7,Rank 0,7d2+2,13.73,13.48,14.1,2023-04-10 17:00:34
+Brass Faerie,Fey,12,Rank 0,12d2,24.78,24.38,23.95,2023-04-10 17:00:34
+Lich King,Undead,8,Rank 1,8d4+1,33.08,33.36,31.3,2023-04-10 17:00:34
+Red Wyrmling,Dragon,6,Rank 1,6d4,24.99,23.62,24.38,2023-04-10 17:00:34
+Lightning Mephit,Elemental,12,Rank 2,12d6+1,69.82,71.59,74.21,2023-04-10 17:00:34
+Pit Fiend,Demonic,9,Rank 0,9d2+4,18.21,17.65,17.31,2023-04-10 17:00:34
+Wyvern,Dragon,3,Rank 2,3d6+2,19.65,17.77,17.09,2023-04-10 17:00:34
+Spore Archfey,Fey,3,Rank 0,3d2+1,6.86,6.14,5.72,2023-04-10 17:00:34
+Balor,Demonic,5,Rank 3,5d8+3,42.39,40.88,40.72,2023-04-10 17:00:34
+Ruby Dragon,Dragon,7,Rank 0,7d2,14.02,14.56,13.4,2023-04-10 17:00:34
+Succubus,Devilkin,7,Rank 0,7d2+5,14.56,14.81,14.75,2023-04-10 17:00:34
+Platinum Faerie,Fey,5,Rank 1,5d4+3,20.22,20.42,20.29,2023-04-10 17:00:34
+Quasit,Demonic,7,Rank 0,7d2+2,13.64,14.24,14.62,2023-04-10 17:00:34
+Prismatic Dragon,Dragon,10,Rank 2,10d6+2,57.5,60.83,61.12,2023-04-10 17:00:34
+Goblin Villager,Devilkin,4,Rank 0,4d2,9.0,7.28,7.12,2023-04-10 17:00:34
+Mud Spirit,Fey,3,Rank 2,3d6,18.86,15.34,16.68,2023-04-10 17:00:34
+White Drake,Dragon,18,Rank 1,18d4+3,72.12,72.35,70.86,2023-04-10 17:00:34
+Succubus,Devilkin,8,Rank 3,8d8+3,65.56,61.23,66.25,2023-04-10 17:00:34
+Bronze Faerie,Fey,5,Rank 3,5d8+1,37.97,41.34,41.77,2023-04-10 17:00:34
+Night Hag,Demonic,16,Rank 0,16d2+2,31.61,32.91,31.85,2023-04-10 17:00:34
+Pit Lord,Devilkin,4,Rank 0,4d2+4,7.35,8.87,7.57,2023-04-10 17:00:34
+Ghast,Undead,8,Rank 5,8d12,94.19,94.68,91.35,2023-04-10 17:00:34
+Pseudodragon,Dragon,5,Rank 3,5d8+1,41.8,40.64,37.25,2023-04-10 17:00:34
+Silver Archfey,Fey,6,Rank 3,6d8+1,45.25,47.82,48.49,2023-04-10 17:00:34
+Black Wyrmling,Dragon,12,Rank 2,12d6+4,72.67,71.79,69.14,2023-04-10 17:00:34
+Flame Elemental,Elemental,2,Rank 1,2d4+1,9.11,8.97,8.32,2023-04-10 17:00:34
+Dracolich,Undead,16,Rank 1,16d4,63.74,65.73,64.6,2023-04-10 17:00:34
+Succubus,Devilkin,2,Rank 4,2d10,22.37,18.79,22.24,2023-04-10 17:00:34
+Steam Spirit,Fey,5,Rank 2,5d6+1,30.98,29.24,32.04,2023-04-10 17:00:34
+Pseudodragon,Dragon,2,Rank 0,2d2+4,4.46,3.43,4.44,2023-04-10 17:00:34
+Ice Mephit,Elemental,12,Rank 0,12d2+1,24.48,23.27,24.21,2023-04-10 17:00:34
+Wraith,Undead,7,Rank 3,7d8,53.63,52.55,56.5,2023-04-10 17:00:34
+Hell Hound,Demonic,19,Rank 4,19d10+1,188.01,191.96,188.66,2023-04-10 17:00:34
+Spore Devil,Devilkin,5,Rank 0,5d2,9.7,10.98,10.05,2023-04-10 17:00:34
+Efreeti,Elemental,11,Rank 2,11d6+2,68.41,64.15,66.11,2023-04-10 17:00:34
+Dust Spirit,Fey,1,Rank 2,1d6+4,6.07,4.21,4.55,2023-04-10 17:00:34
+Lich,Undead,8,Rank 2,8d6+1,46.72,49.1,47.0,2023-04-10 17:00:34
+Wyvern,Dragon,3,Rank 0,3d2+2,6.4,5.42,5.88,2023-04-10 17:00:34
+Smoke Elemental,Elemental,14,Rank 0,14d2+4,28.8,27.21,27.43,2023-04-10 17:00:34
+Nightmare,Demonic,9,Rank 1,9d4+4,37.3,34.45,36.1,2023-04-10 17:00:34
+Pit Lord,Devilkin,8,Rank 4,8d10+1,78.1,83.41,83.29,2023-04-10 17:00:34
+Spore Spirit,Fey,19,Rank 0,19d2+1,37.17,37.05,38.18,2023-04-10 17:00:34
+Imp,Demonic,10,Rank 3,10d8,80.26,79.26,77.86,2023-04-10 17:00:34
+Prince of Fear,Devilkin,9,Rank 2,9d6+3,55.06,53.53,54.68,2023-04-10 17:00:34
+Magma Spirit,Fey,19,Rank 1,19d4+2,76.58,77.53,75.33,2023-04-10 17:00:34
+Nightmare,Demonic,13,Rank 2,13d6,79.24,77.39,77.38,2023-04-10 17:00:34
+Prince of Fear,Devilkin,12,Rank 2,12d6+1,71.05,70.49,73.62,2023-04-10 17:00:34
+Lightning Elemental,Elemental,12,Rank 3,12d8+1,96.93,92.94,98.99,2023-04-10 17:00:34
+Death Knight,Undead,8,Rank 0,8d2+4,15.92,15.16,16.91,2023-04-10 17:00:34
+Bronze Dragon,Dragon,2,Rank 1,2d4+1,7.7,9.9,7.46,2023-04-10 17:00:34
+Flame Elemental,Elemental,14,Rank 0,14d2,28.06,28.59,28.12,2023-04-10 17:00:34
+Spore Spirit,Fey,15,Rank 3,15d8,122.53,123.75,121.21,2023-04-10 17:00:34
+Balor,Demonic,8,Rank 1,8d4,33.05,32.17,33.87,2023-04-10 17:00:34
+Magma Elemental,Elemental,4,Rank 3,4d8,29.95,32.99,31.94,2023-04-10 17:00:34
+Lich King,Undead,7,Rank 0,7d2+2,13.67,14.95,14.5,2023-04-10 17:00:34
+Diamond Drake,Dragon,10,Rank 5,10d12+2,116.4,121.39,119.48,2023-04-10 17:00:34
+Djinni,Elemental,6,Rank 4,6d10,59.03,61.03,57.21,2023-04-10 17:00:34
+Dust Archfey,Fey,7,Rank 2,7d6,40.36,43.84,40.38,2023-04-10 17:00:34
+Hook Horror,Demonic,3,Rank 1,3d4,11.36,13.47,12.6,2023-04-10 17:00:34
+Smoke Devil,Devilkin,9,Rank 0,9d2+1,18.83,18.81,17.15,2023-04-10 17:00:34
+Banshee,Undead,3,Rank 1,3d4+3,11.38,13.41,11.46,2023-04-10 17:00:34
+Spore Devil,Devilkin,7,Rank 4,7d10,65.97,72.8,66.09,2023-04-10 17:00:34
+Red Archfey,Fey,1,Rank 4,1d10+2,13.32,10.85,11.68,2023-04-10 17:00:34
+Imp,Demonic,9,Rank 0,9d2+1,17.76,18.74,18.0,2023-04-10 17:00:34
+Faerie Dragon,Dragon,15,Rank 1,15d4,58.96,60.64,59.22,2023-04-10 17:00:34
+Djinni,Elemental,2,Rank 3,2d8+4,13.67,14.36,13.33,2023-04-10 17:00:34
+Skeletal Guard,Undead,10,Rank 4,10d10+3,96.69,101.14,97.06,2023-04-10 17:00:34
+Wyvern,Dragon,10,Rank 3,10d8,77.43,81.29,81.25,2023-04-10 17:00:34
+Dust Spirit,Fey,8,Rank 4,8d10,81.98,75.18,77.74,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 1,3d4,12.51,11.94,11.97,2023-04-10 17:00:34
+Prince of Fear,Devilkin,5,Rank 0,5d2+4,10.75,9.91,9.37,2023-04-10 17:00:34
+Ice Archfey,Fey,10,Rank 0,10d2,20.27,19.87,20.16,2023-04-10 17:00:34
+Pit Fiend,Demonic,3,Rank 2,3d6,17.62,16.63,16.18,2023-04-10 17:00:34
+Emerald Wyrmling,Dragon,14,Rank 0,14d2+1,28.94,28.93,27.9,2023-04-10 17:00:34
+Shadow Devil,Devilkin,2,Rank 1,2d4+2,9.23,8.38,9.2,2023-04-10 17:00:34
+Lightning Elemental,Elemental,7,Rank 1,7d4+2,27.24,27.77,26.23,2023-04-10 17:00:34
+Blue Archfey,Fey,18,Rank 3,18d8,145.15,141.55,142.37,2023-04-10 17:00:34
+Lich,Undead,14,Rank 0,14d2+2,27.5,28.69,28.09,2023-04-10 17:00:34
+Green Drake,Dragon,3,Rank 3,3d8,23.69,24.52,21.71,2023-04-10 17:00:34
+Spore Spirit,Fey,5,Rank 0,5d2+3,10.45,10.22,9.67,2023-04-10 17:00:34
+Hell Hound,Demonic,13,Rank 3,13d8+3,101.62,105.21,103.19,2023-04-10 17:00:34
+Magma Elemental,Elemental,3,Rank 2,3d6,18.71,15.96,16.73,2023-04-10 17:00:34
+Wraith,Undead,10,Rank 4,10d10,102.42,102.31,99.22,2023-04-10 17:00:34
+Prince of Fear,Devilkin,6,Rank 3,6d8+4,45.35,51.87,48.85,2023-04-10 17:00:34
+Mud Archfey,Fey,2,Rank 1,2d4+1,6.89,8.5,6.19,2023-04-10 17:00:34
+Ghast,Undead,5,Rank 2,5d6+1,28.12,27.12,28.03,2023-04-10 17:00:34
+Silver Drake,Dragon,11,Rank 1,11d4+1,44.11,44.75,44.26,2023-04-10 17:00:34
+Djinni,Elemental,3,Rank 2,3d6+2,19.51,19.04,18.74,2023-04-10 17:00:34
+Dracolich,Undead,12,Rank 0,12d2+1,23.67,24.09,23.2,2023-04-10 17:00:34
+Kobold Archer,Devilkin,6,Rank 2,6d6+3,37.81,33.17,34.86,2023-04-10 17:00:34
+Gold Faerie,Fey,7,Rank 3,7d8+2,53.31,57.36,58.52,2023-04-10 17:00:34
+Mummy,Undead,4,Rank 4,4d10,37.62,43.22,36.52,2023-04-10 17:00:34
+Wyvern,Dragon,9,Rank 2,9d6+1,52.49,54.02,51.09,2023-04-10 17:00:34
+Djinni,Elemental,6,Rank 1,6d4+1,24.06,25.89,22.86,2023-04-10 17:00:34
+Wraith,Undead,11,Rank 0,11d2,21.64,21.52,22.15,2023-04-10 17:00:34
+Flame Devil,Devilkin,8,Rank 4,8d10+2,78.48,76.65,83.06,2023-04-10 17:00:34
+Lich King,Undead,11,Rank 3,11d8,86.38,89.29,85.68,2023-04-10 17:00:34
+Wyvern,Dragon,9,Rank 5,9d12+1,108.45,109.83,112.33,2023-04-10 17:00:34
+Steam Spirit,Fey,12,Rank 4,12d10+4,115.95,115.7,120.91,2023-04-10 17:00:34
+Zombie Villager,Undead,14,Rank 1,14d4+4,56.86,54.0,56.5,2023-04-10 17:00:34
+White Drake,Dragon,16,Rank 3,16d8+1,125.99,130.76,125.73,2023-04-10 17:00:34
+Mud Mephit,Elemental,3,Rank 0,3d2+1,5.3,6.86,5.11,2023-04-10 17:00:34
+Zombie Guard,Undead,15,Rank 1,15d4+2,59.03,59.49,60.24,2023-04-10 17:00:34
+Platinum Drake,Dragon,9,Rank 2,9d6,52.21,54.47,56.25,2023-04-10 17:00:34
+Djinni,Elemental,5,Rank 2,5d6+4,28.92,31.68,28.47,2023-04-10 17:00:34
+Demilich,Undead,6,Rank 0,6d2,11.53,12.52,11.85,2023-04-10 17:00:34
+Sapphire Wyrmling,Dragon,3,Rank 2,3d6+3,16.73,17.48,17.55,2023-04-10 17:00:34
+Red Faerie,Fey,3,Rank 1,3d4+1,12.99,12.21,13.4,2023-04-10 17:00:34
+Skeletal Archer,Undead,4,Rank 2,4d6,25.83,24.41,25.45,2023-04-10 17:00:34
+Wyvern,Dragon,4,Rank 0,4d2,8.84,7.95,8.56,2023-04-10 17:00:34
+Smoke Elemental,Elemental,6,Rank 5,6d12+2,70.51,72.96,74.78,2023-04-10 17:00:34
+Lich,Undead,5,Rank 0,5d2,10.35,9.18,9.99,2023-04-10 17:00:34
+Pseudodragon,Dragon,3,Rank 4,3d10+1,27.34,27.79,33.53,2023-04-10 17:00:34
+Onyx Faerie,Fey,9,Rank 2,9d6+2,55.67,54.08,52.41,2023-04-10 17:00:34
+Quasit,Demonic,10,Rank 2,10d6+2,60.84,60.56,61.59,2023-04-10 17:00:34
+Brass Wyrmling,Dragon,12,Rank 4,12d10+2,118.5,122.83,123.99,2023-04-10 17:00:34
+Incubus,Devilkin,4,Rank 2,4d6,24.79,23.41,24.93,2023-04-10 17:00:34
+Magma Spirit,Fey,4,Rank 1,4d4+1,15.42,17.82,15.7,2023-04-10 17:00:34
+Pit Fiend,Demonic,10,Rank 2,10d6+2,57.25,61.02,60.93,2023-04-10 17:00:34
+Pseudodragon,Dragon,5,Rank 4,5d10,51.01,46.95,51.83,2023-04-10 17:00:34
+Djinni,Elemental,1,Rank 1,1d4+2,2.72,3.49,3.9,2023-04-10 17:00:34
+Imp,Demonic,2,Rank 0,2d2,3.71,4.56,4.0,2023-04-10 17:00:34
+Mud Elemental,Elemental,9,Rank 3,9d8,69.74,68.66,73.03,2023-04-10 17:00:34
+Wight,Undead,5,Rank 1,5d4,20.2,20.85,21.6,2023-04-10 17:00:34
+Wyvern,Dragon,2,Rank 0,2d2,3.25,3.74,4.69,2023-04-10 17:00:34
+Smoke Mephit,Elemental,10,Rank 1,10d4+5,40.0,38.22,39.82,2023-04-10 17:00:34
+Demilich,Undead,3,Rank 0,3d2+2,5.98,6.49,5.08,2023-04-10 17:00:34
+Red Dragon,Dragon,5,Rank 2,5d6,31.8,29.9,29.35,2023-04-10 17:00:34
+Kobold Mage,Devilkin,13,Rank 2,13d6+1,75.7,78.72,76.58,2023-04-10 17:00:34
+Onyx Archfey,Fey,6,Rank 0,6d2+5,12.78,12.3,12.83,2023-04-10 17:00:34
+Hook Horror,Demonic,13,Rank 0,13d2+1,25.03,26.34,25.5,2023-04-10 17:00:34
+Spore Devil,Devilkin,12,Rank 0,12d2+3,24.43,23.46,23.78,2023-04-10 17:00:34
+Brass Faerie,Fey,5,Rank 1,5d4+1,20.62,19.68,21.08,2023-04-10 17:00:34
+Red Dragon,Dragon,3,Rank 1,3d4+2,10.91,10.05,11.67,2023-04-10 17:00:34
+Green Faerie,Fey,3,Rank 1,3d4+1,12.12,11.54,10.98,2023-04-10 17:00:34
+Vampire,Undead,8,Rank 3,8d8,61.1,66.51,65.38,2023-04-10 17:00:34
+Prince of Fear,Devilkin,16,Rank 4,16d10,158.29,164.82,163.41,2023-04-10 17:00:34
+Djinni,Elemental,9,Rank 0,9d2+3,17.7,17.01,17.75,2023-04-10 17:00:34
+Magma Spirit,Fey,2,Rank 0,2d2+2,4.23,3.8,4.92,2023-04-10 17:00:34
+Quasit,Demonic,5,Rank 2,5d6+2,28.9,31.21,29.74,2023-04-10 17:00:34
+Lightning Devil,Devilkin,6,Rank 2,6d6,34.97,34.69,37.67,2023-04-10 17:00:34
+Djinni,Elemental,6,Rank 0,6d2+1,12.59,12.16,11.06,2023-04-10 17:00:34
+Ghoul,Undead,10,Rank 0,10d2,19.09,20.21,19.39,2023-04-10 17:00:34
+Wyvern,Dragon,6,Rank 0,6d2+3,11.74,12.34,11.94,2023-04-10 17:00:34
+Kobold Knight,Devilkin,14,Rank 0,14d2+3,28.25,27.23,28.01,2023-04-10 17:00:34
+Lich King,Undead,14,Rank 2,14d6+3,82.6,84.24,83.43,2023-04-10 17:00:34
+Wyvern,Dragon,8,Rank 3,8d8+1,62.19,66.49,66.81,2023-04-10 17:00:34
+Shadow Archfey,Fey,2,Rank 4,2d10+1,21.62,17.01,18.86,2023-04-10 17:00:34
+Nightmare,Demonic,2,Rank 2,2d6,12.96,10.2,9.91,2023-04-10 17:00:34
+Faerie Dragon,Dragon,3,Rank 0,3d2+4,6.09,5.34,6.3,2023-04-10 17:00:34
+Djinni,Elemental,19,Rank 0,19d2+1,38.8,37.86,37.92,2023-04-10 17:00:34
+Balor,Demonic,8,Rank 0,8d2+1,15.54,15.8,16.39,2023-04-10 17:00:34
+Kobold Guard,Devilkin,7,Rank 1,7d4+2,26.23,27.44,27.43,2023-04-10 17:00:34
+Demilich,Undead,5,Rank 1,5d4+1,20.2,20.06,21.2,2023-04-10 17:00:34
+Quasit,Demonic,12,Rank 2,12d6,73.73,69.91,71.47,2023-04-10 17:00:34
+Goblin Mage,Devilkin,7,Rank 0,7d2+1,14.5,14.76,13.41,2023-04-10 17:00:34
+Emerald Archfey,Fey,5,Rank 1,5d4+1,19.5,20.92,19.63,2023-04-10 17:00:34
+Hell Hound,Demonic,3,Rank 1,3d4+1,11.56,10.07,11.55,2023-04-10 17:00:34
+Mud Devil,Devilkin,8,Rank 0,8d2+1,16.44,16.12,16.46,2023-04-10 17:00:34
+Sapphire Faerie,Fey,6,Rank 0,6d2,12.21,12.25,11.22,2023-04-10 17:00:34
+Pit Fiend,Demonic,6,Rank 2,6d6,37.65,36.53,35.17,2023-04-10 17:00:34
+Goblin Knight,Devilkin,5,Rank 5,5d12+1,62.68,60.67,58.88,2023-04-10 17:00:34
+Ghast,Undead,7,Rank 2,7d6,40.76,42.44,40.68,2023-04-10 17:00:34
+Black Dragon,Dragon,7,Rank 0,7d2+2,14.77,13.73,14.73,2023-04-10 17:00:34
+Goblin Guard,Devilkin,3,Rank 4,3d10+2,28.78,28.14,27.0,2023-04-10 17:00:34
+Flame Spirit,Fey,6,Rank 2,6d6,35.45,38.56,34.42,2023-04-10 17:00:34
+Imp,Demonic,10,Rank 1,10d4+1,39.39,38.15,39.18,2023-04-10 17:00:34
+Djinni,Elemental,17,Rank 2,17d6+3,101.81,103.24,100.8,2023-04-10 17:00:34
+Death Knight,Undead,6,Rank 0,6d2+1,12.52,12.6,12.48,2023-04-10 17:00:34
+Bronze Dragon,Dragon,8,Rank 3,8d8+2,64.77,61.04,66.27,2023-04-10 17:00:34
+Brass Faerie,Fey,6,Rank 2,6d6,34.52,36.27,36.63,2023-04-10 17:00:34
+Blue Dragon,Dragon,11,Rank 0,11d2,22.22,22.42,21.2,2023-04-10 17:00:34
+Steam Elemental,Elemental,16,Rank 1,16d4+1,65.49,64.49,63.71,2023-04-10 17:00:34
+Lightning Spirit,Fey,3,Rank 1,3d4+1,10.59,10.64,12.17,2023-04-10 17:00:34
+Copper Wyrmling,Dragon,5,Rank 5,5d12+2,56.11,61.63,56.82,2023-04-10 17:00:34
+Goblin Mage,Devilkin,5,Rank 0,5d2+2,9.85,9.0,10.48,2023-04-10 17:00:34
+Efreeti,Elemental,13,Rank 3,13d8+3,106.51,103.66,106.08,2023-04-10 17:00:34
+Shadow Spirit,Fey,5,Rank 1,5d4+4,19.7,19.03,20.14,2023-04-10 17:00:34
+Imp,Demonic,1,Rank 0,1d2,1.85,2.64,2.29,2023-04-10 17:00:34
+Bronze Wyrmling,Dragon,5,Rank 2,5d6+4,29.03,30.03,28.16,2023-04-10 17:00:34
+Dust Elemental,Elemental,15,Rank 0,15d2,30.09,30.95,30.27,2023-04-10 17:00:34
+Lich King,Undead,5,Rank 2,5d6,28.16,28.34,30.31,2023-04-10 17:00:34
+Goblin Knight,Devilkin,4,Rank 4,4d10,39.25,43.72,36.66,2023-04-10 17:00:34
+Blue Faerie,Fey,7,Rank 0,7d2+1,13.27,14.26,14.59,2023-04-10 17:00:34
+White Demon,Demonic,15,Rank 1,15d4+3,58.81,61.11,60.47,2023-04-10 17:00:34
+Goblin Archer,Devilkin,8,Rank 5,8d12,94.25,99.16,90.28,2023-04-10 17:00:34
+Efreeti,Elemental,6,Rank 0,6d2,11.6,11.48,11.42,2023-04-10 17:00:34
+Ghostly Villager,Undead,5,Rank 3,5d8+1,41.27,42.11,40.24,2023-04-10 17:00:34
+Green Wyrmling,Dragon,14,Rank 0,14d2+2,27.27,27.59,27.85,2023-04-10 17:00:34
+Smoke Elemental,Elemental,7,Rank 1,7d4+4,29.65,28.71,27.74,2023-04-10 17:00:34
+Revenant,Undead,4,Rank 2,4d6+2,22.34,23.61,25.11,2023-04-10 17:00:34
+Wyvern,Dragon,3,Rank 4,3d10,26.49,33.22,26.42,2023-04-10 17:00:34
+Kobold Guard,Devilkin,3,Rank 1,3d4,13.66,10.98,13.3,2023-04-10 17:00:34
+Silver Faerie,Fey,4,Rank 0,4d2+3,8.76,7.28,7.59,2023-04-10 17:00:34
+Mummy,Undead,10,Rank 5,10d12+2,115.59,122.64,115.15,2023-04-10 17:00:34
+Hell Hound,Demonic,1,Rank 0,1d2+1,2.71,2.67,2.02,2023-04-10 17:00:34
+Prince of Fear,Devilkin,4,Rank 1,4d4+3,15.1,14.28,16.19,2023-04-10 17:00:34
+Mummy,Undead,1,Rank 1,1d4+1,3.18,4.92,2.8,2023-04-10 17:00:34
+Pseudodragon,Dragon,10,Rank 1,10d4+2,39.34,41.67,39.73,2023-04-10 17:00:34
+Magma Mephit,Elemental,3,Rank 0,3d2+3,5.97,5.42,5.12,2023-04-10 17:00:34
+Mummy,Undead,7,Rank 3,7d8+2,58.12,54.18,54.69,2023-04-10 17:00:34
+Faerie Dragon,Dragon,6,Rank 1,6d4,23.18,23.9,23.06,2023-04-10 17:00:34
+Efreeti,Elemental,3,Rank 0,3d2+1,5.31,6.44,6.6,2023-04-10 17:00:34
+Mummy,Undead,11,Rank 0,11d2+3,22.58,22.17,21.41,2023-04-10 17:00:34
+Black Drake,Dragon,11,Rank 0,11d2+1,21.67,21.43,21.34,2023-04-10 17:00:34
+Lightning Spirit,Fey,4,Rank 0,4d2+4,7.17,7.43,8.51,2023-04-10 17:00:34
+Death Knight,Undead,8,Rank 0,8d2+3,15.43,15.52,15.28,2023-04-10 17:00:34
+Bronze Wyrmling,Dragon,11,Rank 2,11d6,65.52,63.73,64.93,2023-04-10 17:00:34
+Efreeti,Elemental,5,Rank 0,5d2,9.29,9.29,10.3,2023-04-10 17:00:34
+Shadow Spirit,Fey,3,Rank 0,3d2,5.7,6.63,6.26,2023-04-10 17:00:34
+Zombie Mage,Undead,12,Rank 4,12d10+3,122.06,119.56,119.66,2023-04-10 17:00:34
+Pseudodragon,Dragon,3,Rank 1,3d4+3,10.99,12.21,10.41,2023-04-10 17:00:34
+Steam Archfey,Fey,8,Rank 1,8d4+1,33.92,32.4,31.74,2023-04-10 17:00:34
+Ghoul,Undead,13,Rank 0,13d2+5,25.68,26.29,26.62,2023-04-10 17:00:34
+Diamond Dragon,Dragon,5,Rank 0,5d2+1,9.87,10.33,9.35,2023-04-10 17:00:34
+Pit Lord,Devilkin,7,Rank 0,7d2,14.67,14.1,13.08,2023-04-10 17:00:34
+Ghostly Villager,Undead,7,Rank 0,7d2,14.39,13.55,14.36,2023-04-10 17:00:34
+Pit Lord,Devilkin,9,Rank 0,9d2+1,17.11,18.63,18.33,2023-04-10 17:00:34
+Dust Mephit,Elemental,10,Rank 0,10d2+1,20.62,20.76,19.78,2023-04-10 17:00:34
+White Faerie,Fey,7,Rank 1,7d4+1,28.53,27.29,27.71,2023-04-10 17:00:34
+Hell Hound,Demonic,14,Rank 0,14d2,27.68,27.36,28.46,2023-04-10 17:00:34
+Efreeti,Elemental,9,Rank 2,9d6+2,56.27,52.68,55.53,2023-04-10 17:00:34
+Platinum Archfey,Fey,5,Rank 4,5d10+5,46.22,50.47,46.94,2023-04-10 17:00:34
+Pit Fiend,Demonic,12,Rank 2,12d6+3,72.03,69.89,73.57,2023-04-10 17:00:34
+Goblin Guard,Devilkin,18,Rank 1,18d4+4,71.99,71.38,70.02,2023-04-10 17:00:34
+Smoke Archfey,Fey,3,Rank 0,3d2,6.53,5.15,6.68,2023-04-10 17:00:34
+Quasit,Demonic,15,Rank 3,15d8+3,119.95,121.07,116.06,2023-04-10 17:00:34
+Kobold Mage,Devilkin,19,Rank 0,19d2+4,37.69,37.5,38.83,2023-04-10 17:00:34
+Gold Faerie,Fey,5,Rank 3,5d8,41.12,40.98,42.59,2023-04-10 17:00:34
+Hook Horror,Demonic,17,Rank 0,17d2,34.51,33.88,34.19,2023-04-10 17:00:34
+Shadow Elemental,Elemental,7,Rank 1,7d4+5,29.41,26.46,28.82,2023-04-10 17:00:34
+Skeletal Knight,Undead,9,Rank 3,9d8+1,70.64,69.13,71.7,2023-04-10 17:00:34
+Nightmare,Demonic,4,Rank 2,4d6,24.27,22.99,25.34,2023-04-10 17:00:34
+Kobold Guard,Devilkin,2,Rank 3,2d8+2,17.17,17.85,15.27,2023-04-10 17:00:34
+Copper Faerie,Fey,2,Rank 1,2d4,8.93,9.02,7.63,2023-04-10 17:00:34
+Faerie Dragon,Dragon,18,Rank 3,18d8+3,145.42,145.98,143.18,2023-04-10 17:00:34
+Mud Mephit,Elemental,13,Rank 2,13d6+3,75.3,79.25,78.33,2023-04-10 17:00:34
+Night Hag,Demonic,9,Rank 0,9d2,18.51,19.0,17.25,2023-04-10 17:00:34
+Pseudodragon,Dragon,5,Rank 4,5d10+2,53.58,48.81,51.24,2023-04-10 17:00:34
+Platinum Archfey,Fey,7,Rank 0,7d2+3,13.14,13.33,13.86,2023-04-10 17:00:34
+Hell Hound,Demonic,16,Rank 2,16d6+1,94.49,96.54,96.56,2023-04-10 17:00:34
+Kobold Mage,Devilkin,7,Rank 2,7d6+3,42.75,43.99,44.45,2023-04-10 17:00:34
+Prismatic Faerie,Fey,11,Rank 3,11d8+2,89.29,88.46,84.44,2023-04-10 17:00:34
+Onyx Drake,Dragon,11,Rank 2,11d6,66.39,66.45,66.97,2023-04-10 17:00:34
+Smoke Elemental,Elemental,3,Rank 3,3d8+4,22.88,24.49,25.25,2023-04-10 17:00:34
+Imp,Demonic,11,Rank 2,11d6,65.41,65.97,66.1,2023-04-10 17:00:34
+Sapphire Wyrmling,Dragon,3,Rank 1,3d4,13.53,11.2,13.6,2023-04-10 17:00:34
+Efreeti,Elemental,10,Rank 5,10d12+2,123.27,122.74,123.75,2023-04-10 17:00:34
+Black Demon,Demonic,5,Rank 1,5d4,19.3,19.02,19.02,2023-04-10 17:00:34
+Succubus,Devilkin,18,Rank 0,18d2+2,35.53,35.75,36.72,2023-04-10 17:00:34
+Onyx Faerie,Fey,2,Rank 2,2d6,12.69,11.08,13.0,2023-04-10 17:00:34
+Platinum Demon,Demonic,6,Rank 0,6d2+1,12.34,11.46,11.48,2023-04-10 17:00:34
+Gold Drake,Dragon,6,Rank 0,6d2+2,12.16,11.87,12.96,2023-04-10 17:00:34
+Copper Faerie,Fey,4,Rank 1,4d4,16.75,15.24,16.2,2023-04-10 17:00:34
+Imp,Demonic,8,Rank 0,8d2,16.32,15.49,15.12,2023-04-10 17:00:34
+Djinni,Elemental,8,Rank 1,8d4+1,32.36,33.43,31.27,2023-04-10 17:00:34
+Death Knight,Undead,6,Rank 3,6d8+2,48.99,49.14,50.84,2023-04-10 17:00:34
+Balor,Demonic,4,Rank 1,4d4,17.86,15.43,16.46,2023-04-10 17:00:34
+Goblin Knight,Devilkin,6,Rank 0,6d2+1,12.32,12.75,12.79,2023-04-10 17:00:34
+Magma Spirit,Fey,2,Rank 1,2d4+4,7.23,9.99,8.81,2023-04-10 17:00:34
+Hook Horror,Demonic,3,Rank 1,3d4+3,11.42,13.24,12.26,2023-04-10 17:00:34
+Pit Lord,Devilkin,6,Rank 0,6d2,12.62,11.36,12.43,2023-04-10 17:00:34
+Dust Archfey,Fey,5,Rank 2,5d6+4,31.13,32.87,30.4,2023-04-10 17:00:34
+Hook Horror,Demonic,9,Rank 0,9d2+3,18.68,18.66,18.71,2023-04-10 17:00:34
+Prince of Fear,Devilkin,9,Rank 2,9d6+2,55.78,52.66,52.03,2023-04-10 17:00:34
+Lightning Spirit,Fey,3,Rank 2,3d6+4,20.46,17.16,15.14,2023-04-10 17:00:34
+Hell Hound,Demonic,10,Rank 2,10d6+1,58.83,60.64,60.88,2023-04-10 17:00:34
+Shadow Mephit,Elemental,11,Rank 1,11d4+5,43.7,43.55,43.91,2023-04-10 17:00:34
+Zombie Archer,Undead,10,Rank 1,10d4+3,40.27,39.56,38.38,2023-04-10 17:00:34
+Pit Lord,Devilkin,13,Rank 2,13d6+3,76.36,75.4,78.28,2023-04-10 17:00:34
+Steam Spirit,Fey,3,Rank 1,3d4+2,12.68,10.73,11.49,2023-04-10 17:00:34
+Emerald Dragon,Dragon,2,Rank 0,2d2,3.16,4.71,4.13,2023-04-10 17:00:34
+Ice Elemental,Elemental,12,Rank 2,12d6+2,69.35,72.53,72.2,2023-04-10 17:00:34
+Brass Archfey,Fey,13,Rank 0,13d2,25.09,25.34,26.96,2023-04-10 17:00:34
+Death Knight,Undead,13,Rank 5,13d12+1,158.36,156.9,152.18,2023-04-10 17:00:34
+Pit Fiend,Demonic,14,Rank 0,14d2+2,27.13,28.25,27.01,2023-04-10 17:00:34
+Goblin Mage,Devilkin,6,Rank 0,6d2+3,12.63,12.05,11.59,2023-04-10 17:00:34
+Spore Spirit,Fey,3,Rank 0,3d2+2,6.86,6.25,5.83,2023-04-10 17:00:34
+Poltergeist,Undead,17,Rank 4,17d10+1,167.86,165.24,168.96,2023-04-10 17:00:34
+Black Dragon,Dragon,2,Rank 2,2d6,10.94,13.9,14.13,2023-04-10 17:00:34
+Ruby Faerie,Fey,7,Rank 1,7d4,27.78,28.66,28.72,2023-04-10 17:00:34
+Pit Fiend,Demonic,4,Rank 3,4d8+1,34.04,33.2,33.4,2023-04-10 17:00:34
+Dust Devil,Devilkin,4,Rank 1,4d4+1,14.32,16.79,14.32,2023-04-10 17:00:34
+Wight,Undead,2,Rank 0,2d2+3,4.93,3.2,4.48,2023-04-10 17:00:34
+Pseudodragon,Dragon,9,Rank 1,9d4+2,35.22,37.69,37.26,2023-04-10 17:00:34
+Lightning Spirit,Fey,3,Rank 2,3d6,15.18,16.21,18.48,2023-04-10 17:00:34
+Vampire,Undead,16,Rank 2,16d6+3,95.91,96.54,93.34,2023-04-10 17:00:34
+Pseudodragon,Dragon,8,Rank 3,8d8+1,66.13,63.45,62.54,2023-04-10 17:00:34
+Efreeti,Elemental,11,Rank 0,11d2+3,21.75,21.7,21.93,2023-04-10 17:00:34
+Ghostly Knight,Undead,2,Rank 3,2d8+1,18.26,13.84,13.67,2023-04-10 17:00:34
+Succubus,Devilkin,1,Rank 1,1d4+2,4.88,3.3,4.36,2023-04-10 17:00:34
+Spore Archfey,Fey,9,Rank 3,9d8+2,73.24,74.44,75.26,2023-04-10 17:00:34
+Hell Hound,Demonic,2,Rank 0,2d2+3,4.03,3.68,3.93,2023-04-10 17:00:34
+Djinni,Elemental,9,Rank 1,9d4,36.99,36.08,35.97,2023-04-10 17:00:34
+Demilich,Undead,10,Rank 2,10d6+1,61.11,58.24,62.79,2023-04-10 17:00:34
+Nightmare,Demonic,19,Rank 1,19d4,76.35,76.49,74.69,2023-04-10 17:00:34
+Prince of Fear,Devilkin,2,Rank 1,2d4,9.65,9.0,8.53,2023-04-10 17:00:34
+Dust Elemental,Elemental,8,Rank 1,8d4+4,30.28,30.64,31.22,2023-04-10 17:00:34
+Imp,Demonic,8,Rank 4,8d10,81.86,83.98,80.67,2023-04-10 17:00:34
+Prince of Fear,Devilkin,7,Rank 2,7d6+1,39.66,41.99,42.91,2023-04-10 17:00:34
+Emerald Faerie,Fey,5,Rank 3,5d8+2,40.54,41.54,39.05,2023-04-10 17:00:34
+Wyvern,Dragon,7,Rank 2,7d6,42.56,43.41,41.87,2023-04-10 17:00:34
+Efreeti,Elemental,4,Rank 0,4d2+3,8.02,8.7,8.42,2023-04-10 17:00:34
+Pit Fiend,Demonic,1,Rank 0,1d2,2.93,1.79,1.98,2023-04-10 17:00:34
+Goblin Archer,Devilkin,10,Rank 0,10d2+2,19.98,20.71,20.64,2023-04-10 17:00:34
+Gold Faerie,Fey,11,Rank 0,11d2,22.8,21.65,21.35,2023-04-10 17:00:34
+Wight,Undead,6,Rank 2,6d6+1,37.36,36.98,36.6,2023-04-10 17:00:34
+Goblin Villager,Devilkin,6,Rank 1,6d4+2,23.89,24.79,24.63,2023-04-10 17:00:34
+Copper Faerie,Fey,5,Rank 3,5d8+1,42.67,43.55,39.73,2023-04-10 17:00:34
+Hook Horror,Demonic,8,Rank 0,8d2+1,16.12,16.4,15.32,2023-04-10 17:00:34
+Prince of Fear,Devilkin,4,Rank 0,4d2,8.39,8.05,7.44,2023-04-10 17:00:34
+Dracolich,Undead,11,Rank 3,11d8+4,86.22,87.74,89.5,2023-04-10 17:00:34
+Pseudodragon,Dragon,10,Rank 0,10d2+1,19.58,19.25,20.03,2023-04-10 17:00:34
+Platinum Faerie,Fey,3,Rank 3,3d8,26.94,26.27,23.93,2023-04-10 17:00:34
+Hook Horror,Demonic,5,Rank 0,5d2,9.96,9.89,10.26,2023-04-10 17:00:34
+Kobold Guard,Devilkin,11,Rank 2,11d6+2,64.3,68.18,64.37,2023-04-10 17:00:34
+Diamond Archfey,Fey,7,Rank 1,7d4,27.43,28.61,28.31,2023-04-10 17:00:34
+Quasit,Demonic,2,Rank 1,2d4+3,8.25,7.01,6.63,2023-04-10 17:00:34
+Black Drake,Dragon,15,Rank 4,15d10+1,150.03,145.03,153.48,2023-04-10 17:00:34
+Smoke Spirit,Fey,5,Rank 0,5d2+1,10.3,9.75,9.13,2023-04-10 17:00:34
+Quasit,Demonic,2,Rank 1,2d4+1,8.04,8.71,8.37,2023-04-10 17:00:34
+Goblin Archer,Devilkin,2,Rank 1,2d4+4,8.58,8.47,8.94,2023-04-10 17:00:34
+Shadow Mephit,Elemental,14,Rank 3,14d8+3,110.46,112.48,112.31,2023-04-10 17:00:34
+Bronze Demon,Demonic,3,Rank 1,3d4+1,12.3,10.08,12.7,2023-04-10 17:00:34
+Kobold Villager,Devilkin,6,Rank 0,6d2+4,12.53,12.62,12.52,2023-04-10 17:00:34
+Diamond Faerie,Fey,10,Rank 0,10d2,20.83,20.48,19.4,2023-04-10 17:00:34
+Wyvern,Dragon,9,Rank 3,9d8+5,73.92,68.97,74.55,2023-04-10 17:00:34
+Efreeti,Elemental,16,Rank 2,16d6+2,95.42,97.37,95.87,2023-04-10 17:00:34
+Demilich,Undead,9,Rank 1,9d4+3,35.45,34.64,35.51,2023-04-10 17:00:34
+Pit Lord,Devilkin,4,Rank 0,4d2,7.72,8.62,7.53,2023-04-10 17:00:34
+Red Faerie,Fey,5,Rank 0,5d2+4,9.86,9.74,10.75,2023-04-10 17:00:34
+Hell Hound,Demonic,12,Rank 4,12d10+2,119.03,120.8,120.6,2023-04-10 17:00:34
+Goblin Guard,Devilkin,4,Rank 2,4d6+3,23.07,24.43,25.74,2023-04-10 17:00:34
+Mummy Lord,Undead,3,Rank 1,3d4+2,11.94,12.06,10.94,2023-04-10 17:00:34
+Nightmare,Demonic,7,Rank 1,7d4+1,27.91,28.8,27.91,2023-04-10 17:00:34
+Pseudodragon,Dragon,11,Rank 2,11d6+4,64.22,65.89,64.64,2023-04-10 17:00:34
+Efreeti,Elemental,6,Rank 1,6d4+2,23.24,25.77,22.1,2023-04-10 17:00:34
+Mummy,Undead,15,Rank 4,15d10,154.36,154.04,147.87,2023-04-10 17:00:34
+Prince of Fear,Devilkin,8,Rank 1,8d4+2,33.76,31.88,32.79,2023-04-10 17:00:34
+Bronze Faerie,Fey,8,Rank 2,8d6+1,47.64,46.31,45.62,2023-04-10 17:00:34
+Lich,Undead,10,Rank 1,10d4+2,38.78,39.6,39.23,2023-04-10 17:00:34
+Brass Drake,Dragon,12,Rank 3,12d8+1,95.0,93.16,94.28,2023-04-10 17:00:34
+Djinni,Elemental,3,Rank 4,3d10+3,32.83,27.1,31.48,2023-04-10 17:00:34
+Ghast,Undead,5,Rank 1,5d4+1,20.28,19.39,20.73,2023-04-10 17:00:34
+Faerie Dragon,Dragon,10,Rank 3,10d8,82.12,77.0,80.28,2023-04-10 17:00:34
+Mud Elemental,Elemental,13,Rank 0,13d2,25.27,25.29,26.24,2023-04-10 17:00:34
+Mummy,Undead,12,Rank 0,12d2+2,23.64,23.07,24.62,2023-04-10 17:00:34
+Gold Wyrmling,Dragon,16,Rank 1,16d4+3,64.65,65.6,65.5,2023-04-10 17:00:34
+Djinni,Elemental,2,Rank 4,2d10,23.79,23.09,20.37,2023-04-10 17:00:34
+Mummy,Undead,11,Rank 3,11d8+4,89.34,89.24,84.08,2023-04-10 17:00:34
+Pit Fiend,Demonic,8,Rank 2,8d6,45.89,48.78,47.26,2023-04-10 17:00:34
+Efreeti,Elemental,13,Rank 1,13d4+2,52.84,53.53,52.63,2023-04-10 17:00:34
+Black Faerie,Fey,3,Rank 1,3d4+1,13.12,13.2,11.79,2023-04-10 17:00:34
+Wyvern,Dragon,17,Rank 2,17d6+1,99.86,99.68,101.96,2023-04-10 17:00:34
+Goblin Mage,Devilkin,3,Rank 0,3d2+1,6.9,6.91,6.89,2023-04-10 17:00:34
+Ice Spirit,Fey,14,Rank 0,14d2+4,27.22,28.3,28.34,2023-04-10 17:00:34
+Pseudodragon,Dragon,11,Rank 2,11d6+2,67.67,66.89,67.75,2023-04-10 17:00:34
+Magma Mephit,Elemental,3,Rank 3,3d8+2,23.75,21.82,22.34,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 4,3d10+3,26.27,33.14,26.68,2023-04-10 17:00:34
+Prince of Fear,Devilkin,15,Rank 1,15d4+4,58.45,59.18,59.72,2023-04-10 17:00:34
+Efreeti,Elemental,9,Rank 1,9d4,37.83,36.51,34.87,2023-04-10 17:00:34
+Lich King,Undead,11,Rank 4,11d10+2,107.4,109.48,110.71,2023-04-10 17:00:34
+Onyx Drake,Dragon,8,Rank 2,8d6+5,47.37,46.53,49.85,2023-04-10 17:00:34
+Prince of Fear,Devilkin,1,Rank 0,1d2,2.86,2.55,1.18,2023-04-10 17:00:34
+Sapphire Faerie,Fey,16,Rank 1,16d4,64.34,63.84,63.31,2023-04-10 17:00:34
+Wyvern,Dragon,3,Rank 2,3d6,20.82,19.73,16.41,2023-04-10 17:00:34
+Djinni,Elemental,10,Rank 0,10d2+2,19.89,20.44,19.55,2023-04-10 17:00:34
+Hell Hound,Demonic,9,Rank 1,9d4,36.54,36.99,35.35,2023-04-10 17:00:34
+Mud Mephit,Elemental,8,Rank 3,8d8+1,64.28,64.71,61.16,2023-04-10 17:00:34
+Ghostly Knight,Undead,7,Rank 0,7d2+1,14.95,14.46,14.36,2023-04-10 17:00:34
+Imp,Demonic,11,Rank 2,11d6+4,63.08,67.91,63.44,2023-04-10 17:00:34
+Pseudodragon,Dragon,9,Rank 0,9d2,17.46,18.12,17.56,2023-04-10 17:00:34
+Efreeti,Elemental,4,Rank 2,4d6,25.55,26.75,21.52,2023-04-10 17:00:34
+Pit Fiend,Demonic,4,Rank 2,4d6+5,24.8,22.62,22.81,2023-04-10 17:00:34
+Flame Elemental,Elemental,6,Rank 4,6d10,60.16,58.94,62.98,2023-04-10 17:00:34
+Mummy,Undead,10,Rank 0,10d2,19.51,19.72,20.39,2023-04-10 17:00:34
+Goblin Archer,Devilkin,19,Rank 1,19d4+1,77.01,76.96,77.0,2023-04-10 17:00:34
+Death Knight,Undead,1,Rank 0,1d2,1.91,1.66,2.66,2023-04-10 17:00:34
+Balor,Demonic,10,Rank 0,10d2+2,19.84,19.45,20.28,2023-04-10 17:00:34
+Djinni,Elemental,1,Rank 2,1d6+4,7.95,8.79,8.99,2023-04-10 17:00:34
+Hell Hound,Demonic,2,Rank 1,2d4+1,6.13,7.25,6.82,2023-04-10 17:00:34
+Gold Drake,Dragon,7,Rank 0,7d2+2,13.1,14.61,14.16,2023-04-10 17:00:34
+Efreeti,Elemental,4,Rank 3,4d8+1,32.35,34.93,33.79,2023-04-10 17:00:34
+Demilich,Undead,15,Rank 2,15d6+2,87.49,91.29,91.76,2023-04-10 17:00:34
+Wyvern,Dragon,4,Rank 0,4d2,8.01,8.76,7.77,2023-04-10 17:00:34
+Shadow Elemental,Elemental,6,Rank 1,6d4+3,23.76,23.63,23.05,2023-04-10 17:00:34
+Banshee,Undead,9,Rank 1,9d4+5,35.48,36.73,37.64,2023-04-10 17:00:34
+Kobold Villager,Devilkin,13,Rank 1,13d4+1,51.23,52.18,51.67,2023-04-10 17:00:34
+Mud Spirit,Fey,12,Rank 0,12d2+2,24.3,24.48,24.18,2023-04-10 17:00:34
+Pit Fiend,Demonic,8,Rank 5,8d12,93.65,91.76,92.51,2023-04-10 17:00:34
+Flame Mephit,Elemental,7,Rank 0,7d2+1,13.6,13.95,14.85,2023-04-10 17:00:34
+Banshee,Undead,3,Rank 3,3d8,22.96,22.86,24.67,2023-04-10 17:00:34
+Goblin Guard,Devilkin,9,Rank 2,9d6+3,52.58,53.47,52.59,2023-04-10 17:00:34
+Steam Spirit,Fey,6,Rank 1,6d4+2,22.28,22.02,24.75,2023-04-10 17:00:34
+Nightmare,Demonic,9,Rank 1,9d4+2,36.24,35.48,37.48,2023-04-10 17:00:34
+Green Dragon,Dragon,4,Rank 1,4d4+3,17.12,15.39,16.61,2023-04-10 17:00:34
+Smoke Elemental,Elemental,10,Rank 3,10d8,82.26,77.01,78.11,2023-04-10 17:00:34
+Lich,Undead,10,Rank 2,10d6+2,61.25,58.15,60.68,2023-04-10 17:00:34
+Brass Drake,Dragon,5,Rank 3,5d8+3,37.18,37.89,36.82,2023-04-10 17:00:34
+Efreeti,Elemental,18,Rank 0,18d2+1,35.53,36.34,36.12,2023-04-10 17:00:34
+Hell Hound,Demonic,8,Rank 0,8d2+2,16.51,16.64,15.8,2023-04-10 17:00:34
+Goblin Archer,Devilkin,4,Rank 0,4d2,7.9,8.33,8.48,2023-04-10 17:00:34
+Red Faerie,Fey,4,Rank 2,4d6+3,24.8,26.89,21.97,2023-04-10 17:00:34
+Faerie Dragon,Dragon,4,Rank 3,4d8+1,34.92,31.9,29.32,2023-04-10 17:00:34
+Shadow Elemental,Elemental,3,Rank 3,3d8+1,21.36,24.08,27.79,2023-04-10 17:00:34
+Mud Archfey,Fey,7,Rank 2,7d6+3,43.62,43.4,44.85,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 4,3d10,25.04,30.68,29.66,2023-04-10 17:00:34
+Kobold Villager,Devilkin,2,Rank 2,2d6,12.8,13.45,14.8,2023-04-10 17:00:34
+Onyx Faerie,Fey,7,Rank 0,7d2+1,13.78,14.58,13.85,2023-04-10 17:00:34
+Hook Horror,Demonic,8,Rank 5,8d12,93.59,95.61,95.67,2023-04-10 17:00:34
+Faerie Dragon,Dragon,14,Rank 0,14d2+1,27.9,27.53,27.81,2023-04-10 17:00:34
+Goblin Knight,Devilkin,7,Rank 4,7d10+1,67.86,65.36,67.06,2023-04-10 17:00:34
+Lightning Mephit,Elemental,12,Rank 0,12d2+1,23.11,24.32,24.79,2023-04-10 17:00:34
+Mummy Lord,Undead,9,Rank 4,9d10+5,91.29,92.38,89.91,2023-04-10 17:00:34
+Faerie Dragon,Dragon,5,Rank 1,5d4+1,18.12,19.55,21.73,2023-04-10 17:00:34
+Pit Lord,Devilkin,4,Rank 0,4d2,7.12,7.55,8.37,2023-04-10 17:00:34
+Efreeti,Elemental,4,Rank 3,4d8+3,30.24,28.99,32.4,2023-04-10 17:00:34
+Zombie Guard,Undead,7,Rank 1,7d4+1,27.97,29.98,28.73,2023-04-10 17:00:34
+Silver Drake,Dragon,8,Rank 2,8d6+1,47.94,46.3,45.76,2023-04-10 17:00:34
+Succubus,Devilkin,8,Rank 2,8d6+1,46.12,47.48,46.36,2023-04-10 17:00:34
+Flame Mephit,Elemental,2,Rank 2,2d6+5,13.63,11.7,13.23,2023-04-10 17:00:34
+Gold Faerie,Fey,5,Rank 0,5d2+3,9.3,10.89,9.5,2023-04-10 17:00:34
+Nightmare,Demonic,12,Rank 4,12d10+3,120.73,118.03,121.67,2023-04-10 17:00:34
+Steam Devil,Devilkin,3,Rank 5,3d12+3,32.17,32.5,37.75,2023-04-10 17:00:34
+Copper Archfey,Fey,3,Rank 5,3d12+1,41.55,32.93,31.56,2023-04-10 17:00:34
+Wyvern,Dragon,3,Rank 0,3d2+1,6.28,5.11,5.06,2023-04-10 17:00:34
+Ice Spirit,Fey,3,Rank 1,3d4+1,13.06,11.82,11.89,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 1,3d4+3,12.56,13.77,12.33,2023-04-10 17:00:34
+Spore Devil,Devilkin,7,Rank 1,7d4+1,28.46,28.82,27.67,2023-04-10 17:00:34
+Banshee,Undead,7,Rank 2,7d6+2,42.56,40.87,43.2,2023-04-10 17:00:34
+Wyvern,Dragon,2,Rank 1,2d4+2,6.7,8.69,8.07,2023-04-10 17:00:34
+Djinni,Elemental,6,Rank 4,6d10+1,62.21,58.12,58.62,2023-04-10 17:00:34
+Demilich,Undead,3,Rank 1,3d4+4,12.1,13.43,11.81,2023-04-10 17:00:34
+Pit Lord,Devilkin,8,Rank 3,8d8,62.31,66.79,65.25,2023-04-10 17:00:34
+Silver Faerie,Fey,2,Rank 0,2d2+1,3.69,3.42,4.14,2023-04-10 17:00:34
+Wight,Undead,7,Rank 1,7d4+4,28.72,28.5,27.14,2023-04-10 17:00:34
+Black Dragon,Dragon,2,Rank 0,2d2+1,4.13,3.18,4.59,2023-04-10 17:00:34
+Steam Elemental,Elemental,3,Rank 5,3d12+1,40.79,33.83,39.57,2023-04-10 17:00:34
+Lightning Spirit,Fey,9,Rank 3,9d8+3,69.56,70.64,72.49,2023-04-10 17:00:34
+Hell Hound,Demonic,2,Rank 2,2d6+3,12.77,14.0,12.09,2023-04-10 17:00:34
+Pit Lord,Devilkin,7,Rank 4,7d10+1,71.14,66.27,68.95,2023-04-10 17:00:34
+Poltergeist,Undead,6,Rank 3,6d8,47.71,44.91,49.6,2023-04-10 17:00:34
+Green Drake,Dragon,6,Rank 4,6d10+4,56.01,60.17,56.48,2023-04-10 17:00:34
+Djinni,Elemental,5,Rank 2,5d6+3,28.47,32.69,31.03,2023-04-10 17:00:34
+Lich King,Undead,4,Rank 5,4d12+1,45.62,48.04,47.34,2023-04-10 17:00:34
+Pseudodragon,Dragon,15,Rank 2,15d6+5,90.26,91.99,91.8,2023-04-10 17:00:34
+Spore Elemental,Elemental,3,Rank 1,3d4+1,13.51,12.33,11.14,2023-04-10 17:00:34
+Ghoul,Undead,13,Rank 0,13d2+4,26.87,25.96,25.16,2023-04-10 17:00:34
+Bronze Drake,Dragon,11,Rank 0,11d2,21.98,22.75,21.25,2023-04-10 17:00:34
+Dust Elemental,Elemental,12,Rank 3,12d8+2,95.78,99.13,96.67,2023-04-10 17:00:34
+Pit Fiend,Demonic,4,Rank 5,4d12,48.33,51.31,52.92,2023-04-10 17:00:34
+Mud Mephit,Elemental,1,Rank 1,1d4+2,3.77,3.38,5.17,2023-04-10 17:00:34
+Mummy,Undead,12,Rank 0,12d2+4,23.07,23.76,23.54,2023-04-10 17:00:34
+Succubus,Devilkin,4,Rank 2,4d6+3,23.93,23.68,25.21,2023-04-10 17:00:34
+Diamond Faerie,Fey,13,Rank 0,13d2,26.39,26.89,26.76,2023-04-10 17:00:34
+Prismatic Demon,Demonic,19,Rank 1,19d4+2,76.08,75.08,76.23,2023-04-10 17:00:34
+Succubus,Devilkin,3,Rank 1,3d4+1,13.63,11.67,13.24,2023-04-10 17:00:34
+Smoke Archfey,Fey,1,Rank 1,1d4+2,2.66,4.4,2.91,2023-04-10 17:00:34
+Faerie Dragon,Dragon,5,Rank 1,5d4+4,18.2,18.21,20.3,2023-04-10 17:00:34
+Shadow Elemental,Elemental,3,Rank 2,3d6,15.34,17.48,15.49,2023-04-10 17:00:34
+Wight,Undead,3,Rank 0,3d2+5,5.9,5.4,5.32,2023-04-10 17:00:34
+Faerie Dragon,Dragon,10,Rank 4,10d10,101.29,103.16,100.23,2023-04-10 17:00:34
+Pit Lord,Devilkin,7,Rank 2,7d6,43.47,42.92,39.18,2023-04-10 17:00:34
+Onyx Faerie,Fey,7,Rank 2,7d6+1,39.96,43.18,40.83,2023-04-10 17:00:34
+Quasit,Demonic,1,Rank 1,1d4+1,4.06,3.82,5.47,2023-04-10 17:00:34
+Steam Elemental,Elemental,3,Rank 1,3d4+1,10.07,10.61,10.65,2023-04-10 17:00:34
+Lich King,Undead,11,Rank 2,11d6,66.14,66.6,66.23,2023-04-10 17:00:34
+Sapphire Dragon,Dragon,13,Rank 1,13d4+4,51.57,53.83,52.96,2023-04-10 17:00:34
+White Archfey,Fey,2,Rank 2,2d6+1,10.18,10.41,13.92,2023-04-10 17:00:34
+Imp,Demonic,13,Rank 5,13d12+1,151.79,156.34,155.53,2023-04-10 17:00:34
+Pseudodragon,Dragon,2,Rank 2,2d6,9.15,9.09,13.8,2023-04-10 17:00:34
+Efreeti,Elemental,3,Rank 2,3d6+1,18.48,18.59,19.79,2023-04-10 17:00:34
+Demilich,Undead,12,Rank 0,12d2+3,23.97,23.36,23.16,2023-04-10 17:00:34
+Prince of Fear,Devilkin,13,Rank 1,13d4+5,51.87,51.17,52.26,2023-04-10 17:00:34
+Efreeti,Elemental,5,Rank 3,5d8+2,38.97,36.05,40.0,2023-04-10 17:00:34
+Lightning Archfey,Fey,5,Rank 0,5d2,9.47,9.86,9.43,2023-04-10 17:00:34
+Wyvern,Dragon,2,Rank 4,2d10+1,16.72,21.4,23.68,2023-04-10 17:00:34
+Succubus,Devilkin,10,Rank 0,10d2+2,20.65,20.3,19.42,2023-04-10 17:00:34
+Ruby Archfey,Fey,5,Rank 4,5d10,51.59,52.2,52.48,2023-04-10 17:00:34
+Imp,Demonic,13,Rank 0,13d2+1,26.78,25.05,26.39,2023-04-10 17:00:34
+Kobold Mage,Devilkin,4,Rank 2,4d6+1,25.99,23.46,25.29,2023-04-10 17:00:34
+Smoke Elemental,Elemental,7,Rank 5,7d12+3,86.59,85.86,88.63,2023-04-10 17:00:34
+Death Knight,Undead,5,Rank 2,5d6,32.61,31.18,32.86,2023-04-10 17:00:34
+Silver Drake,Dragon,2,Rank 3,2d8+1,14.76,14.1,16.06,2023-04-10 17:00:34
+Efreeti,Elemental,8,Rank 3,8d8,64.82,64.43,61.66,2023-04-10 17:00:34
+Dracolich,Undead,1,Rank 2,1d6+2,7.07,4.55,6.59,2023-04-10 17:00:34
+Faerie Dragon,Dragon,3,Rank 1,3d4+5,10.07,11.06,12.69,2023-04-10 17:00:34
+Efreeti,Elemental,9,Rank 0,9d2+1,17.11,17.58,18.01,2023-04-10 17:00:34
+Banshee,Undead,2,Rank 4,2d10+2,20.65,21.59,20.65,2023-04-10 17:00:34
+Prismatic Dragon,Dragon,9,Rank 2,9d6+1,55.67,52.25,55.43,2023-04-10 17:00:34
+Shadow Devil,Devilkin,5,Rank 3,5d8+3,36.67,43.66,41.81,2023-04-10 17:00:34
+Lightning Spirit,Fey,7,Rank 2,7d6+4,40.89,41.51,42.37,2023-04-10 17:00:34
+Imp,Demonic,9,Rank 2,9d6,53.51,52.73,54.43,2023-04-10 17:00:34
+Kobold Knight,Devilkin,4,Rank 0,4d2+3,8.52,8.52,7.99,2023-04-10 17:00:34
+Efreeti,Elemental,14,Rank 4,14d10,138.41,139.12,136.86,2023-04-10 17:00:34
+Poltergeist,Undead,5,Rank 2,5d6,28.69,31.99,28.64,2023-04-10 17:00:34
+Faerie Dragon,Dragon,10,Rank 4,10d10+1,98.45,96.75,103.02,2023-04-10 17:00:34
+Smoke Elemental,Elemental,8,Rank 0,8d2,15.31,16.65,16.82,2023-04-10 17:00:34
+Death Knight,Undead,10,Rank 0,10d2+2,20.25,20.34,19.28,2023-04-10 17:00:34
+Pseudodragon,Dragon,8,Rank 1,8d4+2,33.68,32.88,31.15,2023-04-10 17:00:34
+Magma Elemental,Elemental,7,Rank 3,7d8+1,58.07,54.45,58.8,2023-04-10 17:00:34
+Revenant,Undead,10,Rank 1,10d4+2,39.76,39.19,40.94,2023-04-10 17:00:34
+Ruby Drake,Dragon,13,Rank 5,13d12,151.16,153.69,160.76,2023-04-10 17:00:34
+Efreeti,Elemental,10,Rank 0,10d2+2,20.88,19.95,19.9,2023-04-10 17:00:34
+Banshee,Undead,9,Rank 3,9d8+2,72.39,69.69,73.86,2023-04-10 17:00:34
+Imp,Demonic,9,Rank 1,9d4+2,36.74,36.19,36.44,2023-04-10 17:00:34
+Pseudodragon,Dragon,2,Rank 0,2d2+1,4.63,3.3,3.18,2023-04-10 17:00:34
+Onyx Faerie,Fey,8,Rank 4,8d10,81.91,82.54,76.39,2023-04-10 17:00:34
+Sapphire Drake,Dragon,3,Rank 0,3d2+3,5.38,6.89,6.61,2023-04-10 17:00:34
+Mud Spirit,Fey,2,Rank 0,2d2+3,4.59,4.02,4.32,2023-04-10 17:00:34
+Wraith,Undead,12,Rank 1,12d4+1,48.23,47.73,48.55,2023-04-10 17:00:34
+Prince of Fear,Devilkin,9,Rank 1,9d4,37.82,34.46,36.83,2023-04-10 17:00:34
+Efreeti,Elemental,1,Rank 3,1d8,10.02,10.74,8.58,2023-04-10 17:00:34
+Demilich,Undead,8,Rank 3,8d8,62.02,64.29,64.28,2023-04-10 17:00:34
+Faerie Dragon,Dragon,12,Rank 1,12d4+1,49.13,48.49,49.13,2023-04-10 17:00:34
+Efreeti,Elemental,13,Rank 1,13d4+3,52.17,51.18,52.9,2023-04-10 17:00:34
+Lich,Undead,3,Rank 0,3d2+1,6.1,5.17,5.1,2023-04-10 17:00:34
+Wyvern,Dragon,5,Rank 0,5d2+1,10.58,9.83,10.67,2023-04-10 17:00:34
+Smoke Mephit,Elemental,5,Rank 2,5d6,30.68,30.25,28.85,2023-04-10 17:00:34
+Poltergeist,Undead,3,Rank 0,3d2+5,6.76,6.1,5.35,2023-04-10 17:00:34
+Faerie Dragon,Dragon,1,Rank 3,1d8+3,4.03,10.68,10.25,2023-04-10 17:00:34
+Succubus,Devilkin,3,Rank 0,3d2+3,5.2,5.67,6.3,2023-04-10 17:00:34
+Red Faerie,Fey,3,Rank 0,3d2,5.89,5.33,6.96,2023-04-10 17:00:34
+Zombie Guard,Undead,2,Rank 1,2d4+4,7.17,8.64,9.92,2023-04-10 17:00:34
+Pseudodragon,Dragon,11,Rank 0,11d2+2,21.05,22.5,22.41,2023-04-10 17:00:34
+Shadow Archfey,Fey,13,Rank 1,13d4+3,50.87,53.56,51.8,2023-04-10 17:00:34
+Balor,Demonic,4,Rank 0,4d2+1,7.67,8.35,7.97,2023-04-10 17:00:34
+Prince of Fear,Devilkin,5,Rank 0,5d2+3,9.84,9.35,9.15,2023-04-10 17:00:34
+Mud Mephit,Elemental,4,Rank 1,4d4+2,15.13,17.03,15.49,2023-04-10 17:00:34
+Hook Horror,Demonic,3,Rank 2,3d6,18.29,17.44,20.62,2023-04-10 17:00:34
+Flame Devil,Devilkin,5,Rank 0,5d2+1,10.24,9.69,10.31,2023-04-10 17:00:34
+Death Knight,Undead,11,Rank 1,11d4+2,45.79,44.01,43.37,2023-04-10 17:00:34
+Imp,Demonic,7,Rank 0,7d2,14.94,13.64,14.15,2023-04-10 17:00:34
+Steam Mephit,Elemental,4,Rank 2,4d6+2,24.88,24.94,24.1,2023-04-10 17:00:34
+Hell Hound,Demonic,8,Rank 0,8d2,16.1,16.71,15.34,2023-04-10 17:00:34
+Lightning Elemental,Elemental,16,Rank 4,16d10,163.27,160.17,156.1,2023-04-10 17:00:34
+Mummy,Undead,5,Rank 1,5d4,21.41,21.71,19.55,2023-04-10 17:00:34
+Goblin Mage,Devilkin,14,Rank 1,14d4,55.67,57.39,57.99,2023-04-10 17:00:34
+Emerald Faerie,Fey,4,Rank 1,4d4+4,16.3,16.78,16.9,2023-04-10 17:00:34
+Brass Drake,Dragon,4,Rank 0,4d2,7.3,8.2,7.0,2023-04-10 17:00:34
+Kobold Knight,Devilkin,3,Rank 2,3d6+2,17.8,17.66,16.39,2023-04-10 17:00:34
+Djinni,Elemental,8,Rank 3,8d8,61.12,64.1,60.93,2023-04-10 17:00:34
+Sapphire Archfey,Fey,6,Rank 5,6d12+2,76.9,70.77,77.29,2023-04-10 17:00:34
+Hell Hound,Demonic,15,Rank 2,15d6,90.36,88.96,90.46,2023-04-10 17:00:34
+White Wyrmling,Dragon,10,Rank 0,10d2+4,19.12,20.39,20.76,2023-04-10 17:00:34
+Efreeti,Elemental,2,Rank 1,2d4,7.31,7.31,9.95,2023-04-10 17:00:34
+Revenant,Undead,10,Rank 3,10d8,82.34,77.18,82.24,2023-04-10 17:00:34
+Faerie Dragon,Dragon,2,Rank 1,2d4,7.98,7.69,6.75,2023-04-10 17:00:34
+Flame Mephit,Elemental,9,Rank 3,9d8+1,71.54,73.68,71.94,2023-04-10 17:00:34
+Night Hag,Demonic,6,Rank 5,6d12+1,74.25,70.88,67.07,2023-04-10 17:00:34
+Kobold Archer,Devilkin,8,Rank 1,8d4+1,30.68,32.46,32.65,2023-04-10 17:00:34
+Magma Spirit,Fey,9,Rank 1,9d4,36.07,34.63,36.96,2023-04-10 17:00:34
+Nightmare,Demonic,17,Rank 4,17d10+1,168.1,172.93,169.97,2023-04-10 17:00:34
+Pseudodragon,Dragon,8,Rank 1,8d4+4,31.47,31.57,30.5,2023-04-10 17:00:34
+Emerald Faerie,Fey,14,Rank 1,14d4+1,57.62,55.23,54.24,2023-04-10 17:00:34
+Nightmare,Demonic,3,Rank 3,3d8,24.54,25.31,27.67,2023-04-10 17:00:34
+Diamond Dragon,Dragon,4,Rank 4,4d10+3,39.72,36.75,42.64,2023-04-10 17:00:34
+Djinni,Elemental,3,Rank 3,3d8+4,25.45,21.52,26.85,2023-04-10 17:00:34
+Hook Horror,Demonic,8,Rank 1,8d4+3,31.25,32.53,33.8,2023-04-10 17:00:34
+Prince of Fear,Devilkin,9,Rank 3,9d8+2,75.26,69.05,74.91,2023-04-10 17:00:34
+Lightning Spirit,Fey,6,Rank 0,6d2+1,12.8,11.15,11.3,2023-04-10 17:00:34
+Pseudodragon,Dragon,7,Rank 0,7d2+1,13.0,14.36,14.18,2023-04-10 17:00:34
+Spore Elemental,Elemental,3,Rank 0,3d2,5.96,5.98,6.77,2023-04-10 17:00:34
+Gold Faerie,Fey,14,Rank 4,14d10+2,136.84,140.3,144.81,2023-04-10 17:00:34
+Balor,Demonic,2,Rank 2,2d6+2,11.42,12.53,10.56,2023-04-10 17:00:34
+Dust Devil,Devilkin,6,Rank 1,6d4+5,25.62,25.51,23.86,2023-04-10 17:00:34
+Green Faerie,Fey,2,Rank 1,2d4+1,7.26,7.47,9.63,2023-04-10 17:00:34
+Pseudodragon,Dragon,1,Rank 2,1d6+2,6.82,4.58,7.55,2023-04-10 17:00:34
+Goblin Villager,Devilkin,6,Rank 1,6d4+2,24.48,25.42,23.42,2023-04-10 17:00:34
+Lightning Spirit,Fey,11,Rank 0,11d2,22.74,21.26,21.4,2023-04-10 17:00:34
+Faerie Dragon,Dragon,9,Rank 1,9d4+2,35.93,35.97,36.38,2023-04-10 17:00:34
+Spore Mephit,Elemental,6,Rank 0,6d2+3,12.5,11.24,12.8,2023-04-10 17:00:34
+Ghoul,Undead,10,Rank 2,10d6,58.26,59.81,58.94,2023-04-10 17:00:34
+Goblin Guard,Devilkin,6,Rank 0,6d2+1,12.69,11.12,12.91,2023-04-10 17:00:34
+Steam Elemental,Elemental,7,Rank 3,7d8+2,55.67,55.4,57.95,2023-04-10 17:00:34
+Revenant,Undead,12,Rank 0,12d2+3,24.48,24.81,23.02,2023-04-10 17:00:34
+Silver Demon,Demonic,11,Rank 0,11d2+2,22.26,22.14,21.31,2023-04-10 17:00:34
+Black Drake,Dragon,5,Rank 5,5d12+2,60.94,58.87,63.48,2023-04-10 17:00:34
+Goblin Mage,Devilkin,6,Rank 1,6d4,25.88,25.77,25.83,2023-04-10 17:00:34
+Ice Archfey,Fey,6,Rank 3,6d8+2,51.14,46.79,45.38,2023-04-10 17:00:34
+Ghostly Knight,Undead,14,Rank 1,14d4+2,55.77,54.53,55.43,2023-04-10 17:00:34
+Hell Hound,Demonic,2,Rank 0,2d2+1,4.52,3.21,4.08,2023-04-10 17:00:34
+Shadow Mephit,Elemental,10,Rank 5,10d12+1,122.62,123.66,119.78,2023-04-10 17:00:34
+Bronze Faerie,Fey,12,Rank 3,12d8+3,96.55,98.45,99.04,2023-04-10 17:00:34
+Sapphire Wyrmling,Dragon,2,Rank 0,2d2+4,3.82,3.35,3.35,2023-04-10 17:00:34
+Dust Elemental,Elemental,7,Rank 1,7d4+1,27.2,26.85,26.93,2023-04-10 17:00:34
+Ice Spirit,Fey,7,Rank 3,7d8+4,59.93,56.88,58.04,2023-04-10 17:00:34
+Nightmare,Demonic,7,Rank 4,7d10,74.05,71.9,68.04,2023-04-10 17:00:34
+Goblin Guard,Devilkin,14,Rank 4,14d10+2,139.42,138.06,141.53,2023-04-10 17:00:34
+Shadow Elemental,Elemental,13,Rank 0,13d2+2,26.62,26.96,25.89,2023-04-10 17:00:34
+Ghostly Mage,Undead,15,Rank 0,15d2+2,30.14,30.58,30.84,2023-04-10 17:00:34
+Hell Hound,Demonic,6,Rank 4,6d10+3,60.62,63.95,61.17,2023-04-10 17:00:34
+Wyvern,Dragon,6,Rank 2,6d6+4,36.59,36.98,35.54,2023-04-10 17:00:34
+Pit Lord,Devilkin,9,Rank 0,9d2,17.91,17.91,17.83,2023-04-10 17:00:34
+Red Faerie,Fey,6,Rank 0,6d2+1,12.69,12.51,11.93,2023-04-10 17:00:34
+Night Hag,Demonic,3,Rank 3,3d8,21.27,20.04,23.98,2023-04-10 17:00:34
+Goblin Villager,Devilkin,11,Rank 1,11d4,44.12,45.45,44.33,2023-04-10 17:00:34
+Mud Spirit,Fey,6,Rank 0,6d2,11.24,12.1,11.52,2023-04-10 17:00:34
+Night Hag,Demonic,4,Rank 1,4d4+2,14.4,14.24,15.46,2023-04-10 17:00:34
+Emerald Dragon,Dragon,3,Rank 0,3d2+1,6.78,6.9,5.85,2023-04-10 17:00:34
+Gold Archfey,Fey,10,Rank 1,10d4,38.88,39.81,39.36,2023-04-10 17:00:34
+Pit Fiend,Demonic,6,Rank 2,6d6,36.97,33.02,37.26,2023-04-10 17:00:34
+Goblin Guard,Devilkin,7,Rank 5,7d12+2,80.62,80.96,81.74,2023-04-10 17:00:34
+Flame Spirit,Fey,18,Rank 1,18d4,71.2,73.48,71.56,2023-04-10 17:00:34
+Wraith,Undead,18,Rank 0,18d2+5,36.53,35.31,35.12,2023-04-10 17:00:34
+Faerie Dragon,Dragon,11,Rank 1,11d4+1,43.31,42.94,44.19,2023-04-10 17:00:34
+Efreeti,Elemental,6,Rank 0,6d2+3,11.75,12.19,11.46,2023-04-10 17:00:34
+Night Hag,Demonic,2,Rank 0,2d2+1,3.68,3.45,3.71,2023-04-10 17:00:34
+Prince of Fear,Devilkin,15,Rank 3,15d8+3,117.33,117.61,118.44,2023-04-10 17:00:34
+Spore Archfey,Fey,8,Rank 0,8d2+2,16.74,16.85,16.57,2023-04-10 17:00:34
+Hook Horror,Demonic,3,Rank 4,3d10,27.21,31.82,30.65,2023-04-10 17:00:34
+Pit Lord,Devilkin,13,Rank 0,13d2+5,25.82,25.02,26.28,2023-04-10 17:00:34
+Skeletal Mage,Undead,5,Rank 2,5d6,28.14,30.2,30.94,2023-04-10 17:00:34
+Goblin Knight,Devilkin,6,Rank 0,6d2,11.86,11.0,12.09,2023-04-10 17:00:34
+Ruby Faerie,Fey,12,Rank 0,12d2,24.5,23.13,23.89,2023-04-10 17:00:34
+Death Knight,Undead,11,Rank 0,11d2+1,22.57,22.9,21.94,2023-04-10 17:00:34
+Faerie Dragon,Dragon,7,Rank 2,7d6,43.02,40.48,43.87,2023-04-10 17:00:34
+Magma Mephit,Elemental,10,Rank 0,10d2+2,20.77,19.62,19.53,2023-04-10 17:00:34
+Diamond Demon,Demonic,12,Rank 1,12d4+4,47.17,49.41,46.31,2023-04-10 17:00:34
+Gold Drake,Dragon,19,Rank 3,19d8+3,153.87,149.44,154.95,2023-04-10 17:00:34
+Ice Elemental,Elemental,10,Rank 4,10d10,96.99,103.49,96.47,2023-04-10 17:00:34
+Copper Faerie,Fey,7,Rank 0,7d2+2,14.22,14.92,13.82,2023-04-10 17:00:34
+Balor,Demonic,13,Rank 0,13d2+4,26.87,26.6,26.12,2023-04-10 17:00:34
+Onyx Drake,Dragon,12,Rank 2,12d6,74.37,73.03,74.3,2023-04-10 17:00:34
+Efreeti,Elemental,19,Rank 0,19d2+1,38.07,37.66,37.49,2023-04-10 17:00:34
+Sapphire Faerie,Fey,3,Rank 1,3d4,10.22,10.11,10.54,2023-04-10 17:00:34
+Night Hag,Demonic,1,Rank 3,1d8,4.53,6.82,6.84,2023-04-10 17:00:34
+Efreeti,Elemental,5,Rank 5,5d12+1,57.44,56.62,62.16,2023-04-10 17:00:34
+Revenant,Undead,17,Rank 1,17d4+2,68.92,67.76,69.64,2023-04-10 17:00:34
+Pseudodragon,Dragon,2,Rank 5,2d12,22.67,24.01,29.62,2023-04-10 17:00:34
+Flame Mephit,Elemental,4,Rank 3,4d8+2,34.89,32.02,30.09,2023-04-10 17:00:34
+Skeletal Guard,Undead,8,Rank 3,8d8+2,63.98,60.79,62.38,2023-04-10 17:00:34
+Copper Drake,Dragon,13,Rank 3,13d8+1,105.07,103.45,106.25,2023-04-10 17:00:34
+Kobold Archer,Devilkin,9,Rank 0,9d2+1,18.99,18.5,18.24,2023-04-10 17:00:34
+Efreeti,Elemental,3,Rank 0,3d2+5,6.6,6.28,5.8,2023-04-10 17:00:34
+Platinum Archfey,Fey,5,Rank 2,5d6,27.22,30.04,31.37,2023-04-10 17:00:34
+Balor,Demonic,6,Rank 2,6d6+3,37.45,36.6,36.11,2023-04-10 17:00:34
+Pit Lord,Devilkin,2,Rank 0,2d2,4.56,3.67,3.85,2023-04-10 17:00:34
+Sapphire Faerie,Fey,12,Rank 0,12d2,23.95,24.59,23.89,2023-04-10 17:00:34
+Nightmare,Demonic,6,Rank 1,6d4+1,22.7,23.21,24.7,2023-04-10 17:00:34
+Pit Lord,Devilkin,11,Rank 5,11d12+1,136.07,132.66,133.36,2023-04-10 17:00:34
+Magma Archfey,Fey,13,Rank 4,13d10+2,127.49,129.78,128.96,2023-04-10 17:00:34
+Zombie Villager,Undead,7,Rank 1,7d4+3,28.77,27.37,28.77,2023-04-10 17:00:34
+Succubus,Devilkin,5,Rank 2,5d6+1,30.55,27.77,31.6,2023-04-10 17:00:34
+Skeletal Guard,Undead,6,Rank 4,6d10,55.35,59.82,64.3,2023-04-10 17:00:34
+Pseudodragon,Dragon,5,Rank 2,5d6+2,30.75,31.15,31.58,2023-04-10 17:00:34
+Djinni,Elemental,16,Rank 1,16d4,63.21,63.34,64.93,2023-04-10 17:00:34
+Revenant,Undead,8,Rank 3,8d8+1,65.46,63.07,64.09,2023-04-10 17:00:34
+White Dragon,Dragon,13,Rank 3,13d8+1,106.23,106.72,101.24,2023-04-10 17:00:34
+Pit Lord,Devilkin,11,Rank 0,11d2+3,21.69,22.82,22.7,2023-04-10 17:00:34
+Bronze Archfey,Fey,2,Rank 1,2d4,8.73,7.61,7.08,2023-04-10 17:00:34
+Blue Dragon,Dragon,8,Rank 0,8d2,15.61,16.59,15.94,2023-04-10 17:00:34
+Mud Mephit,Elemental,8,Rank 2,8d6+1,46.08,48.43,47.65,2023-04-10 17:00:34
+Banshee,Undead,5,Rank 4,5d10+2,54.46,47.23,51.25,2023-04-10 17:00:34
+Wyvern,Dragon,5,Rank 1,5d4+1,19.23,19.79,21.03,2023-04-10 17:00:34
+Flame Mephit,Elemental,10,Rank 0,10d2+1,19.5,19.52,20.23,2023-04-10 17:00:34
+Balor,Demonic,16,Rank 5,16d12+2,197.77,192.19,196.98,2023-04-10 17:00:34
+Steam Devil,Devilkin,3,Rank 0,3d2+3,5.46,5.59,6.24,2023-04-10 17:00:34
+Smoke Elemental,Elemental,12,Rank 0,12d2,23.7,24.2,24.63,2023-04-10 17:00:34
+Wight,Undead,10,Rank 1,10d4+1,40.12,38.46,39.14,2023-04-10 17:00:34
+Faerie Dragon,Dragon,3,Rank 2,3d6+1,17.03,16.97,19.11,2023-04-10 17:00:34
+Djinni,Elemental,4,Rank 0,4d2+2,7.38,8.53,8.29,2023-04-10 17:00:34
+Dracolich,Undead,9,Rank 0,9d2+1,17.4,17.48,17.01,2023-04-10 17:00:34
+Pseudodragon,Dragon,5,Rank 1,5d4+1,21.62,18.85,20.18,2023-04-10 17:00:34
+Shadow Devil,Devilkin,8,Rank 5,8d12,100.3,94.22,101.37,2023-04-10 17:00:34
+Mud Archfey,Fey,6,Rank 5,6d12+2,72.58,77.45,70.31,2023-04-10 17:00:34
+Night Hag,Demonic,4,Rank 3,4d8+3,29.72,31.99,29.15,2023-04-10 17:00:34
+Prince of Fear,Devilkin,9,Rank 3,9d8,68.23,70.16,70.37,2023-04-10 17:00:34
+Flame Mephit,Elemental,10,Rank 3,10d8,82.8,77.73,76.39,2023-04-10 17:00:34
+Dust Spirit,Fey,15,Rank 1,15d4,59.32,59.58,58.98,2023-04-10 17:00:34
+Mummy,Undead,10,Rank 0,10d2,20.1,20.95,19.39,2023-04-10 17:00:34
+Copper Wyrmling,Dragon,10,Rank 1,10d4,40.38,40.94,41.34,2023-04-10 17:00:34
+Smoke Elemental,Elemental,5,Rank 1,5d4,18.93,18.51,20.43,2023-04-10 17:00:34
+Poltergeist,Undead,8,Rank 3,8d8+3,62.99,66.59,62.43,2023-04-10 17:00:34
+Nightmare,Demonic,6,Rank 2,6d6+2,33.79,38.08,38.75,2023-04-10 17:00:34
+Steam Elemental,Elemental,5,Rank 0,5d2,10.26,9.52,10.19,2023-04-10 17:00:34
+Demilich,Undead,13,Rank 3,13d8+3,100.29,102.38,101.42,2023-04-10 17:00:34
+Emerald Drake,Dragon,9,Rank 1,9d4+1,37.08,36.81,35.08,2023-04-10 17:00:34
+Lightning Elemental,Elemental,7,Rank 1,7d4+5,27.2,26.32,28.4,2023-04-10 17:00:34
