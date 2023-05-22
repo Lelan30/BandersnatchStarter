@@ -1,7 +1,8 @@
 from base64 import b64decode
 import os
 
-from Fortuna import random_int, random_float
+# from Fortuna import random_int, random_float
+import random
 from MonsterLab import Monster
 from flask import Flask, render_template, request
 from pandas import DataFrame
@@ -10,7 +11,7 @@ from app.data import Database
 from app.graph import chart
 from app.machine import Machine
 
-SPRINT = 0
+SPRINT = 1
 APP = Flask(__name__)
 
 
@@ -28,7 +29,7 @@ def home():
 def data():
     if SPRINT < 1:
         return render_template("data.html")
-    db = Database()
+    db = Database("Database")
     return render_template(
         "data.html",
         count=db.count(),
@@ -75,8 +76,8 @@ def model():
         machine.save(filepath)
     else:
         machine = Machine.open(filepath)
-    stats = [round(random_float(1, 250), 2) for _ in range(3)]
-    level = request.values.get("level", type=int) or random_int(1, 20)
+    stats = [round(random.randint(1, 250), 2) for _ in range(3)]
+    level = request.values.get("level", type=int) or random.randint(1, 20)
     health = request.values.get("health", type=float) or stats.pop()
     energy = request.values.get("energy", type=float) or stats.pop()
     sanity = request.values.get("sanity", type=float) or stats.pop()

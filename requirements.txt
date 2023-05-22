@@ -1,7 +1,6 @@
 altair
 certifi
 Flask
-Fortuna
 gunicorn
 Jinja2
 joblib
@@ -13,3 +12,4 @@ pymongo[srv]
 python-dotenv
 scikit-learn
 scipy
+PyMongo>=3.0
