@@ -1,11 +1,11 @@
 from base64 import b64decode
 import os
 
-# from Fortuna import random_int, random_float
 import random
 from MonsterLab import Monster
 from flask import Flask, render_template, request
 from pandas import DataFrame
+
 
 from app.data import Database
 from app.graph import chart
@@ -13,6 +13,7 @@ from app.machine import Machine
 
 SPRINT = 1
 APP = Flask(__name__)
+# APP.db = Database["Database"]
 
 
 @APP.route("/")
@@ -25,13 +26,23 @@ def home():
     )
 
 
-@APP.route("/data")
+@APP.route("/data", methods=["GET", "POST"])
 def data():
     if SPRINT < 1:
         return render_template("data.html")
-    db = Database("Database")
+
+    db = Database()
+    options = [1024, 2048, 4096]
+    amount = request.values.get("amount", type=int) or options[1]
+
+    if request.method == 'POST' and int(amount) in options:
+        db.reset()
+        db.seed(int(amount))
+
     return render_template(
         "data.html",
+        options=options,
+        amount=amount,
         count=db.count(),
         table=db.html_table(),
     )

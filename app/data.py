@@ -8,7 +8,7 @@ from certifi import where
 from dotenv import load_dotenv, find_dotenv
 from MonsterLab import Monster
 from pandas import DataFrame
-from pymongo import MongoClient
+from pymongo import MongoClient, collection
 
 
 class Database:
@@ -16,53 +16,72 @@ class Database:
     Database class to connect to database and use functions to add
     documents or reset database as well as creating a dataframe
     """
-    # load_dotenv(find_dotenv())
-    # database = MongoClient(getenv("MONGO_URL"), tlsCAFile=where())["Database"]
+    load_dotenv(find_dotenv())
 
-    def __init__(self, collection: str):
-        load_dotenv(find_dotenv())
-        database = MongoClient(getenv("DB_URL"), tlsCAFile=where())["Database"]
-        self.collection = database[collection]
-        self.version = 0
+    def _collection(self) -> collection:
+        """
+        Connect to the database and return the relivent collection.
+        """
+
+        URL = getenv("DB_URL", None)
+        NAME = getenv("DB_NAME", None)
+        COLLECTION = getenv("DB_COLLECTION", None)
+
+        client = MongoClient(URL,
+                             tls=True,
+                             tlsCAFile=where())
+        return client[NAME][COLLECTION]
 
     # We will create a random seed generator that will generate monsters
-    def seed(self, amount=1000):
+    def seed(self, amount=100) -> bool:
         """
         Inserts a specified number of MonsterLab.Monster objects into the
         Monster collection.
         """
-        data = [Monster().to_dict() for _ in range(amount)]
-        return self.collection.insert_many(data).acknowledged
+        if not isinstance(amount, int):
+            raise TypeError('''can only use int (not "{}") values for the
+                                    amount'''.format(amount.__class__.__name__))
+
+        if amount < 1:
+            raise ValueError('amount must be at least 1')
+
+        return self._collection.insert_many(
+            Monster().to_dict() for _ in range(amount)
+        )
 
     def reset(self):
         # Removing all documents from the collection via delete_many
-        self.collection.delete_many({})
+        return self._collection().delete_many({})
 
     def count(self) -> int:
         # Return the number of docs that are currently present in the collection
-        return self.collection.count_documents({})
+        return self._collection().count_documents({})
 
     def dataframe(self) -> DataFrame:
         # Return ALL docs present as a DataFrame list
-        return DataFrame(list(self.collection.find({}, {"_id": False})))
+        return DataFrame(list(self._collection.find({}, {"_id": False, "Timestamp": False})))
 
     def html_table(self) -> str:
         """
         Converting the Dataframe to and HTML table, If the table is
         empty we'll return none
         """
-        return self.dataframe().to_html()
+        if self.count() > 0:
+            return self.dataframe().to_html()
+        else:
+            return "The collection is empty."
 
-    def get_csv(self):
-        self.dataframe().to_csv("app/csv/data.csv", index=False)
 
+if __name__ == "__main__":
+    amount = 2048
 
-if __name__ == '__main__':
-    # creating collection
-    load_dotenv()
-    test = Database('Database')
-    test.reset()
-    test.seed(3000)
-    print(test.count())
-    print(test.dataframe())
-    print(test.html_table())
+    db = Database()
+    db.reset()
+    db.seed()
+
+    count = db.count()
+    df = db.dataframe()
+    html = db.html_table()
+
+    assert amount == count == df.shape[0]
+    assert html is not None
