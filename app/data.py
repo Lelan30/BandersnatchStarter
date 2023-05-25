@@ -20,7 +20,9 @@ class Database:
 
     def _collection(self) -> collection:
         """
-        Connect to the database and return the relevant collection.
+        Connect to the database and return the relevant collection,
+        using .env file to store credentials with TLS Certificate
+        (for security reasons)
         """
 
         URL = getenv("DB_URL", None)
@@ -37,6 +39,9 @@ class Database:
         """
         Inserts a specified number of MonsterLab.Monster objects into the
         Monster collection.
+        
+        Args:
+            amount (int): The number of Monster objects to insert.
         """
         if not isinstance(amount, int):
             raise TypeError('''can only use int (not "{}") values for the
@@ -58,7 +63,7 @@ class Database:
         return self._collection().count_documents({})
 
     def dataframe(self) -> DataFrame:
-        # Return ALL docs present as a DataFrame list
+        # Create a dataframe object from the whole database.
         return DataFrame(list(self._collection().find({},
                                                       {"_id": False, "Timestamp": False})))
 
@@ -74,6 +79,7 @@ class Database:
 
 
 if __name__ == "__main__":
+    # Testing the Database Class
     amount = 2048
 
     db = Database()
