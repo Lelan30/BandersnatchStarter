@@ -4,7 +4,6 @@ Pymongo Version < 3.10
 """
 
 from os import getenv
-# from typing import Optional, Dict
 from certifi import where
 from dotenv import load_dotenv, find_dotenv
 from MonsterLab import Monster
