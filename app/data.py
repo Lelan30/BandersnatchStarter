@@ -1,5 +1,6 @@
 """
-Module containing a Database class to hold the specs of randomized monsters.'''
+Module containing a Database class to hold the specs of randomized monsters.
+Pymongo Version < 3.10
 """
 
 from os import getenv
