@@ -13,7 +13,6 @@ from app.machine import Machine
 
 SPRINT = 1
 APP = Flask(__name__)
-# APP.db = Database["Database"]
 
 
 @APP.route("/")

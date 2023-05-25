@@ -20,7 +20,7 @@ class Database:
 
     def _collection(self) -> collection:
         """
-        Connect to the database and return the relivent collection.
+        Connect to the database and return the relevant collection.
         """
 
         URL = getenv("DB_URL", None)
@@ -33,7 +33,7 @@ class Database:
         return client[NAME][COLLECTION]
 
     # We will create a random seed generator that will generate monsters
-    def seed(self, amount=100) -> bool:
+    def seed(self, amount: int) -> None:
         """
         Inserts a specified number of MonsterLab.Monster objects into the
         Monster collection.
@@ -45,13 +45,13 @@ class Database:
         if amount < 1:
             raise ValueError('amount must be at least 1')
 
-        return self._collection.insert_many(
-            Monster().to_dict() for _ in range(amount)
+        return self._collection().insert_many(
+            Monster().to_dict() for i in range(amount)
         )
 
     def reset(self):
         # Removing all documents from the collection via delete_many
-        return self._collection().delete_many({})
+        return self._collection().drop()
 
     def count(self) -> int:
         # Return the number of docs that are currently present in the collection
@@ -59,7 +59,8 @@ class Database:
 
     def dataframe(self) -> DataFrame:
         # Return ALL docs present as a DataFrame list
-        return DataFrame(list(self._collection.find({}, {"_id": False, "Timestamp": False})))
+        return DataFrame(list(self._collection().find({},
+                                                      {"_id": False, "Timestamp": False})))
 
     def html_table(self) -> str:
         """
@@ -77,7 +78,7 @@ if __name__ == "__main__":
 
     db = Database()
     db.reset()
-    db.seed()
+    db.seed(amount)
 
     count = db.count()
     df = db.dataframe()
