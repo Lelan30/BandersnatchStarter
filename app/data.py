@@ -47,9 +47,9 @@ class Database:
         if not isinstance(amount, int):
             raise TypeError('''can only use int (not "{}") values for the
                                     amount'''.format(amount.__class__.__name__))
-
+        # amount must be at least 1
         if amount < 1:
-            raise ValueError('amount must be at least 1')
+            raise ValueError
 
         return self._collection().insert_many(
             Monster().to_dict() for i in range(amount)
