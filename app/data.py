@@ -14,15 +14,15 @@ from pymongo import MongoClient, collection
 
 class Database:
     """
-    Database class to connect to database and use functions to add
-    documents or reset database as well as creating a dataframe
+    Database class that connects to database and uses functions to add
+    documents or reset database as well as creating a dataframe.
     """
     load_dotenv(find_dotenv())
 
     def _collection(self) -> collection:
         """
-        Connect to the database and return the relevant collection,
-        using .env file to store credentials with TLS Certificate
+        Function: Connect to the database and return the relevant collection,
+        using .envi file to store credentials with TLS Certificate
         (for security reasons)
         """
 
@@ -35,14 +35,15 @@ class Database:
                              tlsCAFile=where())
         return client[NAME][COLLECTION]
 
-    # We will create a random seed generator that will generate monsters
+    # Function: Create a random seed generator that will generate monsters
     def seed(self, amount: int) -> None:
         """
         Inserts a specified number of MonsterLab.Monster objects into the
         Monster collection.
 
         Args:
-            amount (int): The number of Monster objects to insert.
+            amount (int): Define the number of Monster objects to insert.
+            Goal is at least 1000 monsters.
         """
         if not isinstance(amount, int):
             raise TypeError('''can only use int (not "{}") values for the
@@ -56,15 +57,15 @@ class Database:
         )
 
     def reset(self):
-        # Removing all documents from the collection via .drop
+        # Function: Removing all documents from the collection via .drop method
         return self._collection().drop()
 
     def count(self) -> int:
-        # Return the number of docs that are currently present in the collection
+        # Function: Return the number of docs that are currently present in the collection
         return self._collection().count_documents({})
 
     def dataframe(self) -> DataFrame:
-        # Create a dataframe object from the whole database.
+        # Function: Create a dataframe object from the whole database.
         return DataFrame(list(self._collection().find({},
                                                       {"_id": False, "Timestamp": False})))
 
