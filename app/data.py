@@ -1,6 +1,5 @@
 """
-Module containing a Database class to hold the specs of randomized monsters
-Pymongo Version < 3.10
+Module containing a Database class to hold the specs of randomized monsters.'''
 """
 
 from os import getenv
@@ -14,16 +13,14 @@ from pymongo import MongoClient, collection
 
 class Database:
     """
-    Database class that connects to database and uses functions to add
-    documents or reset database as well as creating a dataframe.
+    Database class to connect to database and use functions to add
+    documents or reset database as well as creating a dataframe
     """
     load_dotenv(find_dotenv())
 
     def _collection(self) -> collection:
         """
-        Function: Connect to the database and return the relevant collection,
-        using .envi file to store credentials with TLS Certificate
-        (for security reasons)
+        Connect to the database and return the relevant collection.
         """
 
         URL = getenv("DB_URL", None)
@@ -35,15 +32,11 @@ class Database:
                              tlsCAFile=where())
         return client[NAME][COLLECTION]
 
-    # Function: Create a random seed generator that will generate monsters
+    # We will create a random seed generator that will generate monsters
     def seed(self, amount: int) -> None:
         """
         Inserts a specified number of MonsterLab.Monster objects into the
         Monster collection.
-
-        Args:
-            amount (int): Define the number of Monster objects to insert.
-            Goal is at least 1000 monsters.
         """
         if not isinstance(amount, int):
             raise TypeError('''can only use int (not "{}") values for the
@@ -57,15 +50,15 @@ class Database:
         )
 
     def reset(self):
-        # Function: Removing all documents from the collection via .drop method
+        # Removing all documents from the collection via delete_many
         return self._collection().drop()
 
     def count(self) -> int:
-        # Function: Return the number of docs that are currently present in the collection
+        # Return the number of docs that are currently present in the collection
         return self._collection().count_documents({})
 
     def dataframe(self) -> DataFrame:
-        # Function: Create a dataframe object from the whole database.
+        # Return ALL docs present as a DataFrame list
         return DataFrame(list(self._collection().find({},
                                                       {"_id": False, "Timestamp": False})))
 
@@ -81,7 +74,6 @@ class Database:
 
 
 if __name__ == "__main__":
-    # Testing the Database Class
     amount = 2048
 
     db = Database()
