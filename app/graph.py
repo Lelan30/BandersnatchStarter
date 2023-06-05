@@ -15,7 +15,7 @@ def chart(df: DataFrame, x: str, y:str, target: str) -> Chart:
     ).properties(
         width=450,
         height=450,
-        background='black',
+        background='white',
         padding=20,
     ).configure_axis(
         titleFontSize=20,
